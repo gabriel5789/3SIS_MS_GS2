@@ -1,0 +1,9 @@
+package com.fiap.globalsolution.repository;
+
+import com.fiap.globalsolution.entity.IndicadoresDet;
+import com.fiap.globalsolution.entity.IndicadoresDetId;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface IndicadoresDetRepository extends JpaRepository<IndicadoresDet, IndicadoresDetId> {
+
+}
