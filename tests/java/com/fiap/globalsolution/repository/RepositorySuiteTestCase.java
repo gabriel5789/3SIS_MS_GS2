@@ -9,6 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 import java.math.BigDecimal;
 import java.util.LinkedList;
+import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -55,6 +56,7 @@ public class RepositorySuiteTestCase {
 				new IndicadoresMstr(
 						"3.1.1",
 						"Razão de mortalidade materna",
+						"Razão",
 						objetivosRepository.getReferenceById("3.1")
 				)
 			);
@@ -83,6 +85,14 @@ public class RepositorySuiteTestCase {
 							new BigDecimal("61.8"),
 							indicadoresMstrRepository.getReferenceById("3.1.1")
 					)
+			);
+		}
+
+		@Test
+		@Order(2)
+		void indicadoresDetFindTest() {
+			System.out.println(
+				indicadoresDetRepository.findByIdIndicador("3.1.1").size()
 			);
 		}
 	}

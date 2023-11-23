@@ -17,7 +17,7 @@ public class Objetivos {
 	@Column(name = "desc_objetivo_brasil", length = 255)
 	private String descObjetivoBrasil;
 
-	@OneToMany(targetEntity = IndicadoresMstr.class, fetch = FetchType.LAZY, mappedBy = "objetivo")
+	@OneToMany(targetEntity = IndicadoresMstr.class, fetch = FetchType.EAGER, mappedBy = "objetivo")
 	private List<IndicadoresMstr> indicadoresMstr;
 
 	public Objetivos(String idObjetivo, String descObjetivoGlobal, String descObjetivoBrasil, List<IndicadoresMstr> indicadoresMstr) {

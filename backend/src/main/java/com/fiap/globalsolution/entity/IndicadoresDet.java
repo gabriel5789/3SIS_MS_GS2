@@ -24,7 +24,7 @@ public class IndicadoresDet {
 	@Column(name = "valor", precision = 6, scale = 2)
 	private BigDecimal valor;
 
-	@ManyToOne(targetEntity = IndicadoresMstr.class)
+	@ManyToOne(targetEntity = IndicadoresMstr.class, fetch = FetchType.EAGER)
 	private IndicadoresMstr indicadorMstr;
 
 	public IndicadoresDet(String idIndicador, Integer ano, String regiao, BigDecimal valor, IndicadoresMstr indicadorMstr) {
