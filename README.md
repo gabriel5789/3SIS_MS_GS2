@@ -1,3 +1,10 @@
+Integrantes do Grupo
+
+RM      Nome
+85897   Ana Luiza de Novaes e Souza Dantas
+88398   Gabriel Guedes Silva
+86729   Naomi Nagata Abe
+
 Dados
 
 Os esquemas Lógico e Relacional do banco de dados podem ser encontrados na pasta
