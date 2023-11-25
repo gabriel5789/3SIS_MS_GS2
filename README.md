@@ -1,9 +1,8 @@
 Integrantes do Grupo
 
-RM      Nome
-85897   Ana Luiza de Novaes e Souza Dantas
-88398   Gabriel Guedes Silva
-86729   Naomi Nagata Abe
+    85897 - Ana Luiza de Novaes e Souza Dantas
+    88398 - Gabriel Guedes Silva
+    86729 - Naomi Nagata Abe
 
 Dados
 
@@ -60,7 +59,7 @@ Build
         spring.datasource.validationQuery=select 1
         spring.datasource.maxActive=3
 
-Por questões de segurança, o application.properties não está no repositório do GitHub. Entretanto o arquivo completo foi enviado pelo portal do aluno.
+Por questões de segurança, o application.properties não está no repositório do GitHub, cadastrei um comentário na área de entrega do trabalho com o username e password do banco que contém os dados.
 
 2. Se necessário, os scripts de DDL e carga de dados estão na pasta /backend/src/main/sql
 
