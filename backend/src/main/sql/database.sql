@@ -1,6 +1,4 @@
 
--- Script de criação do banco de dados
-
 DROP TABLE indicadores_det;
 DROP TABLE indicadores_mstr;
 DROP TABLE objetivos;
@@ -20,6 +18,7 @@ ALTER TABLE indicadores_det
 CREATE TABLE indicadores_mstr (
     id_indicador   VARCHAR2(10 CHAR) NOT NULL,
     desc_indicador VARCHAR2(255 CHAR) NOT NULL,
+    tipo_indicador VARCHAR2(20 CHAR) NOT NULL,
     id_objetivo    VARCHAR2(10 CHAR) NOT NULL
 );
 
@@ -27,8 +26,8 @@ ALTER TABLE indicadores_mstr ADD CONSTRAINT indicadores_mstr_pk PRIMARY KEY ( id
 
 CREATE TABLE objetivos (
     id_objetivo          VARCHAR2(10 CHAR) NOT NULL,
-    desc_objetivo_global VARCHAR2(255 CHAR) NOT NULL,
-    desc_objetivo_brasil VARCHAR2(255 CHAR) NOT NULL
+    desc_objetivo_global VARCHAR2(512 CHAR) NOT NULL,
+    desc_objetivo_brasil VARCHAR2(512 CHAR) NOT NULL
 );
 
 ALTER TABLE objetivos ADD CONSTRAINT objetivos_pk PRIMARY KEY ( id_objetivo );
