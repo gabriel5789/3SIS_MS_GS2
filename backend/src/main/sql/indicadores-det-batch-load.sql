@@ -22,17 +22,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
 , 'Norte', 98.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Rondônia', 58.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Rondônia', 64.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Rondônia', 94.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Rondônia', 87.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Rondônia', 57.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Rondônia', 56.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Rondônia', 87.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Rondônia', 47.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Rondônia', 59.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Rondï¿½nia', 58.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Rondï¿½nia', 64.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Rondï¿½nia', 94.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Rondï¿½nia', 87.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Rondï¿½nia', 57.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Rondï¿½nia', 56.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Rondï¿½nia', 87.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Rondï¿½nia', 47.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Rondï¿½nia', 59.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
-, 'Rondônia', 78.1
+, 'Rondï¿½nia', 78.1
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Acre', 33.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Acre', 53.9);
@@ -70,29 +70,29 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
 , 'Roraima', 146.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Pará', 73.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Pará', 78.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Pará', 86.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Pará', 96.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Pará', 72.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Pará', 86.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Pará', 107.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Pará', 81.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Pará', 96.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Parï¿½', 73.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Parï¿½', 78.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Parï¿½', 86.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Parï¿½', 96.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Parï¿½', 72.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Parï¿½', 86.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Parï¿½', 107.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Parï¿½', 81.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Parï¿½', 96.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
-, 'Pará', 107.1
+, 'Parï¿½', 107.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Amapá', 53.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Amapá', 54.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Amapá', 119.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Amapá', 66);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Amapá', 110.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Amapá', 141.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Amapá', 45.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Amapá', 88.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Amapá', 32.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Amapï¿½', 53.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Amapï¿½', 54.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Amapï¿½', 119.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Amapï¿½', 66);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Amapï¿½', 110.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Amapï¿½', 141.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Amapï¿½', 45.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Amapï¿½', 88.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Amapï¿½', 32.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
-, 'Amapá', 102.5
+, 'Amapï¿½', 102.5
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Tocantins', 112.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Tocantins', 53.3);
@@ -118,41 +118,41 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
 , 'Nordeste', 91.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Maranhão', 109.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Maranhão', 96.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Maranhão', 123.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Maranhão', 100.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Maranhão', 116.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Maranhão', 122.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Maranhão', 101.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Maranhão', 90.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Maranhão', 80.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Maranhï¿½o', 109.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Maranhï¿½o', 96.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Maranhï¿½o', 123.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Maranhï¿½o', 100.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Maranhï¿½o', 116.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Maranhï¿½o', 122.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Maranhï¿½o', 101.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Maranhï¿½o', 90.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Maranhï¿½o', 80.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
-, 'Maranhão', 108.9
+, 'Maranhï¿½o', 108.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Piauí', 107.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Piauí', 126);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Piauí', 130.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Piauí', 86.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Piauí', 103.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Piauí', 108.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Piauí', 88.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Piauí', 105.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Piauí', 98.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Piauï¿½', 107.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Piauï¿½', 126);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Piauï¿½', 130.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Piauï¿½', 86.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Piauï¿½', 103.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Piauï¿½', 108.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Piauï¿½', 88.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Piauï¿½', 105.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Piauï¿½', 98.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
-, 'Piauí', 101
+, 'Piauï¿½', 101
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Ceará', 68.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Ceará', 69.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Ceará', 74.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Ceará', 65.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Ceará', 49.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Ceará', 63.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Ceará', 65.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Ceará', 68.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Ceará', 58.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Cearï¿½', 68.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Cearï¿½', 69.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Cearï¿½', 74.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Cearï¿½', 65.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Cearï¿½', 49.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Cearï¿½', 63.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Cearï¿½', 65.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Cearï¿½', 68.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Cearï¿½', 58.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
-, 'Ceará', 97.6
+, 'Cearï¿½', 97.6
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Rio Grande do Norte', 68.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Rio Grande do Norte', 66);
@@ -166,17 +166,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
 , 'Rio Grande do Norte', 78.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Paraíba', 61.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Paraíba', 61.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Paraíba', 70.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Paraíba', 63);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Paraíba', 81.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Paraíba', 99.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Paraíba', 67.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Paraíba', 53.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Paraíba', 62.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Paraï¿½ba', 61.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Paraï¿½ba', 61.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Paraï¿½ba', 70.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Paraï¿½ba', 63);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Paraï¿½ba', 81.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Paraï¿½ba', 99.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Paraï¿½ba', 67.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Paraï¿½ba', 53.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Paraï¿½ba', 62.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
-, 'Paraíba', 97.7
+, 'Paraï¿½ba', 97.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Pernambuco', 57.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Pernambuco', 56);
@@ -250,17 +250,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
 , 'Minas Gerais', 51
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Espírito Santo', 60.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Espírito Santo', 64.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Espírito Santo', 59.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Espírito Santo', 109.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Espírito Santo', 73.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Espírito Santo', 48.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Espírito Santo', 71.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Espírito Santo', 63.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Espírito Santo', 56.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Espï¿½rito Santo', 60.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Espï¿½rito Santo', 64.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Espï¿½rito Santo', 59.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Espï¿½rito Santo', 109.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Espï¿½rito Santo', 73.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Espï¿½rito Santo', 48.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Espï¿½rito Santo', 71.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Espï¿½rito Santo', 63.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Espï¿½rito Santo', 56.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
-, 'Espírito Santo', 68.8
+, 'Espï¿½rito Santo', 68.8
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Rio de Janeiro', 74.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Rio de Janeiro', 80.8);
@@ -274,17 +274,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
 , 'Rio de Janeiro', 95.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'São Paulo', 42);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'São Paulo', 36.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'São Paulo', 39.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'São Paulo', 44.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'São Paulo', 50.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'São Paulo', 54.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'São Paulo', 60.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'São Paulo', 50);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'São Paulo', 49.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Sï¿½o Paulo', 42);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Sï¿½o Paulo', 36.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Sï¿½o Paulo', 39.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Sï¿½o Paulo', 44.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Sï¿½o Paulo', 50.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Sï¿½o Paulo', 54.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Sï¿½o Paulo', 60.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Sï¿½o Paulo', 50);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Sï¿½o Paulo', 49.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
-, 'São Paulo', 60.1
+, 'Sï¿½o Paulo', 60.1
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Sul', 50.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Sul', 54.5);
@@ -298,17 +298,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
 , 'Sul', 45.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Paraná', 52.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Paraná', 38.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Paraná', 41.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Paraná', 41.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Paraná', 51.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Paraná', 50.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Paraná', 31.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Paraná', 38.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Paraná', 45.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Paranï¿½', 52.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Paranï¿½', 38.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Paranï¿½', 41.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Paranï¿½', 41.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Paranï¿½', 51.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Paranï¿½', 50.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Paranï¿½', 31.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Paranï¿½', 38.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Paranï¿½', 45.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
-, 'Paraná', 52.6
+, 'Paranï¿½', 52.6
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Santa Catarina', 30.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Santa Catarina', 45.4);
@@ -370,17 +370,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
 , 'Mato Grosso', 91.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Goiás', 50.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Goiás', 70.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Goiás', 56.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Goiás', 53.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Goiás', 56.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Goiás', 56.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Goiás', 56.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Goiás', 64.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Goiás', 69.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Goiï¿½s', 50.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Goiï¿½s', 70.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2013, 'Goiï¿½s', 56.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2014, 'Goiï¿½s', 53.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2015, 'Goiï¿½s', 56.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2016, 'Goiï¿½s', 56.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2017, 'Goiï¿½s', 56.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2018, 'Goiï¿½s', 64.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2019, 'Goiï¿½s', 69.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2020
-, 'Goiás', 90.5
+, 'Goiï¿½s', 90.5
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2011, 'Distrito Federal', 61.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.1', 2012, 'Distrito Federal', 49.4);
@@ -410,13 +410,13 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
 , 'Norte', 96.7
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Rondônia', 96.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Rondônia', 91.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Rondônia', 90.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Rondônia', 96.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Rondônia', 99.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Rondï¿½nia', 96.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Rondï¿½nia', 91.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Rondï¿½nia', 90.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Rondï¿½nia', 96.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Rondï¿½nia', 99.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
-, 'Rondônia', 99.3
+, 'Rondï¿½nia', 99.3
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Acre', 95.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Acre', 98.2);
@@ -442,21 +442,21 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
 , 'Roraima', 90.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Pará', 93.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Pará', 94.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Pará', 96.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Pará', 96.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Pará', 95.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Parï¿½', 93.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Parï¿½', 94.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Parï¿½', 96.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Parï¿½', 96.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Parï¿½', 95.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
-, 'Pará', 97
+, 'Parï¿½', 97
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Amapá', 97.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Amapá', 98.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Amapá', 98.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Amapá', 98.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Amapá', 94);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Amapï¿½', 97.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Amapï¿½', 98.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Amapï¿½', 98.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Amapï¿½', 98.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Amapï¿½', 94);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
-, 'Amapá', 97.5
+, 'Amapï¿½', 97.5
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Tocantins', 99);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Tocantins', 98.9);
@@ -474,29 +474,29 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
 , 'Nordeste', 97.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Maranhão', 96.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Maranhão', 96.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Maranhão', 97);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Maranhão', 98.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Maranhão', 98);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Maranhï¿½o', 96.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Maranhï¿½o', 96.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Maranhï¿½o', 97);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Maranhï¿½o', 98.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Maranhï¿½o', 98);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
-, 'Maranhão', 92.1
+, 'Maranhï¿½o', 92.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Piauí', 98.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Piauí', 98.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Piauí', 98.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Piauí', 99.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Piauí', 99.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Piauï¿½', 98.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Piauï¿½', 98.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Piauï¿½', 98.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Piauï¿½', 99.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Piauï¿½', 99.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
-, 'Piauí', 99
+, 'Piauï¿½', 99
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Ceará', 96.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Ceará', 98.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Ceará', 99);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Ceará', 98.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Ceará', 96.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Cearï¿½', 96.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Cearï¿½', 98.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Cearï¿½', 99);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Cearï¿½', 98.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Cearï¿½', 96.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
-, 'Ceará', 96.4
+, 'Cearï¿½', 96.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Rio Grande do Norte', 96.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Rio Grande do Norte', 94);
@@ -506,13 +506,13 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
 , 'Rio Grande do Norte', 99.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Paraíba', 98.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Paraíba', 99.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Paraíba', 99.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Paraíba', 99.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Paraíba', 98.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Paraï¿½ba', 98.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Paraï¿½ba', 99.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Paraï¿½ba', 99.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Paraï¿½ba', 99.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Paraï¿½ba', 98.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
-, 'Paraíba', 98
+, 'Paraï¿½ba', 98
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Pernambuco', 98.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Pernambuco', 98.8);
@@ -562,13 +562,13 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
 , 'Minas Gerais', 98.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Espírito Santo', 99.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Espírito Santo', 99.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Espírito Santo', 99.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Espírito Santo', 99.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Espírito Santo', 99.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Espï¿½rito Santo', 99.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Espï¿½rito Santo', 99.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Espï¿½rito Santo', 99.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Espï¿½rito Santo', 99.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Espï¿½rito Santo', 99.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
-, 'Espírito Santo', 99.7
+, 'Espï¿½rito Santo', 99.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Rio de Janeiro', 99.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Rio de Janeiro', 99.6);
@@ -578,13 +578,13 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
 , 'Rio de Janeiro', 99.5
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'São Paulo', 98.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'São Paulo', 99.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'São Paulo', 99.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'São Paulo', 99.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'São Paulo', 99.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Sï¿½o Paulo', 98.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Sï¿½o Paulo', 99.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Sï¿½o Paulo', 99.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Sï¿½o Paulo', 99.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Sï¿½o Paulo', 99.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
-, 'São Paulo', 99.5
+, 'Sï¿½o Paulo', 99.5
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Sul', 99.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Sul', 99.6);
@@ -594,13 +594,13 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
 , 'Sul', 99.5
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Paraná', 99.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Paraná', 99.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Paraná', 99.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Paraná', 99.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Paraná', 99.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Paranï¿½', 99.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Paranï¿½', 99.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Paranï¿½', 99.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Paranï¿½', 99.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Paranï¿½', 99.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
-, 'Paraná', 99.7
+, 'Paranï¿½', 99.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Santa Catarina', 99.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Santa Catarina', 99.6);
@@ -642,13 +642,13 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
 , 'Mato Grosso', 98.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Goiás', 97);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Goiás', 99.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Goiás', 99.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Goiás', 99.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Goiás', 99.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Goiï¿½s', 97);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Goiï¿½s', 99.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2017, 'Goiï¿½s', 99.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2018, 'Goiï¿½s', 99.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2019, 'Goiï¿½s', 99.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2020
-, 'Goiás', 99
+, 'Goiï¿½s', 99
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2015, 'Distrito Federal', 99.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.1.2', 2016, 'Distrito Federal', 98);
@@ -676,14 +676,14 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
 , 'Norte', 18.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Rondônia', 17.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Rondônia', 17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Rondônia', 17.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Rondônia', 16.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Rondônia', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Rondônia', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Rondï¿½nia', 17.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Rondï¿½nia', 17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Rondï¿½nia', 17.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Rondï¿½nia', 16.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Rondï¿½nia', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Rondï¿½nia', 14.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
-, 'Rondônia', 15.7
+, 'Rondï¿½nia', 15.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Acre', 19.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Acre', 18.8);
@@ -712,23 +712,23 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
 , 'Roraima', 23
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Pará', 20.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Pará', 19.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Pará', 22);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Pará', 19.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Pará', 18.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Pará', 19.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Parï¿½', 20.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Parï¿½', 19.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Parï¿½', 22);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Parï¿½', 19.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Parï¿½', 18.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Parï¿½', 19.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
-, 'Pará', 19
+, 'Parï¿½', 19
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Amapá', 25.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Amapá', 25);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Amapá', 26.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Amapá', 28);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Amapá', 25.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Amapá', 27.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Amapï¿½', 25.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Amapï¿½', 25);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Amapï¿½', 26.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Amapï¿½', 28);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Amapï¿½', 25.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Amapï¿½', 27.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
-, 'Amapá', 24.8
+, 'Amapï¿½', 24.8
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Tocantins', 19.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Tocantins', 18.6);
@@ -748,32 +748,32 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
 , 'Nordeste', 16.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Maranhão', 19.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Maranhão', 19.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Maranhão', 19.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Maranhão', 20.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Maranhão', 19.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Maranhão', 19.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Maranhï¿½o', 19.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Maranhï¿½o', 19.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Maranhï¿½o', 19.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Maranhï¿½o', 20.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Maranhï¿½o', 19.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Maranhï¿½o', 19.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
-, 'Maranhão', 18.7
+, 'Maranhï¿½o', 18.7
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Piauí', 20.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Piauí', 19.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Piauí', 22.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Piauí', 21.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Piauí', 20.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Piauí', 20);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Piauï¿½', 20.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Piauï¿½', 19.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Piauï¿½', 22.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Piauï¿½', 21.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Piauï¿½', 20.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Piauï¿½', 20);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
-, 'Piauí', 18.5
+, 'Piauï¿½', 18.5
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Ceará', 15.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Ceará', 15.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Ceará', 16.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Ceará', 17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Ceará', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Ceará', 15.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Cearï¿½', 15.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Cearï¿½', 15.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Cearï¿½', 16.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Cearï¿½', 17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Cearï¿½', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Cearï¿½', 15.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
-, 'Ceará', 14.7
+, 'Cearï¿½', 14.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Rio Grande do Norte', 17.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Rio Grande do Norte', 17.5);
@@ -784,14 +784,14 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
 , 'Rio Grande do Norte', 14.7
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Paraíba', 18.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Paraíba', 17.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Paraíba', 17.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Paraíba', 17.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Paraíba', 15.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Paraíba', 17.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Paraï¿½ba', 18.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Paraï¿½ba', 17.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Paraï¿½ba', 17.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Paraï¿½ba', 17.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Paraï¿½ba', 15.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Paraï¿½ba', 17.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
-, 'Paraíba', 16.2
+, 'Paraï¿½ba', 16.2
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Pernambuco', 16.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Pernambuco', 16.6);
@@ -847,14 +847,14 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
 , 'Minas Gerais', 13.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Espírito Santo', 13.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Espírito Santo', 13.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Espírito Santo', 14.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Espírito Santo', 12.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Espírito Santo', 12.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Espírito Santo', 12.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Espï¿½rito Santo', 13.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Espï¿½rito Santo', 13.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Espï¿½rito Santo', 14.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Espï¿½rito Santo', 12.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Espï¿½rito Santo', 12.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Espï¿½rito Santo', 12.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
-, 'Espírito Santo', 11.4
+, 'Espï¿½rito Santo', 11.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Rio de Janeiro', 14.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Rio de Janeiro', 14.4);
@@ -865,14 +865,14 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
 , 'Rio de Janeiro', 14.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'São Paulo', 13.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'São Paulo', 12.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'São Paulo', 12.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'São Paulo', 12.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'São Paulo', 12.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'São Paulo', 12.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Sï¿½o Paulo', 13.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Sï¿½o Paulo', 12.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Sï¿½o Paulo', 12.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Sï¿½o Paulo', 12.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Sï¿½o Paulo', 12.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Sï¿½o Paulo', 12.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
-, 'São Paulo', 11.1
+, 'Sï¿½o Paulo', 11.1
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Sul', 12.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Sul', 11.9);
@@ -883,14 +883,14 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
 , 'Sul', 10.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Paraná', 12.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Paraná', 12.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Paraná', 12.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Paraná', 11.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Paraná', 12.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Paraná', 12.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Paranï¿½', 12.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Paranï¿½', 12.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Paranï¿½', 12.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Paranï¿½', 11.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Paranï¿½', 12.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Paranï¿½', 12.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
-, 'Paraná', 10.7
+, 'Paranï¿½', 10.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Santa Catarina', 11.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Santa Catarina', 11.4);
@@ -937,14 +937,14 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
 , 'Mato Grosso', 16.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Goiás', 18.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Goiás', 18.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Goiás', 17.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Goiás', 15.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Goiás', 16.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Goiás', 16.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Goiï¿½s', 18.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Goiï¿½s', 18.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2016, 'Goiï¿½s', 17.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2017, 'Goiï¿½s', 15.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2018, 'Goiï¿½s', 16.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2019, 'Goiï¿½s', 16.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2020
-, 'Goiás', 14.1
+, 'Goiï¿½s', 14.1
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2014, 'Distrito Federal', 13.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.1', 2015, 'Distrito Federal', 12.2);
@@ -979,17 +979,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
 , 'Norte', 10.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Rondônia', 10.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Rondônia', 10.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Rondônia', 9.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Rondônia', 9.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Rondônia', 10.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Rondônia', 10.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Rondônia', 9.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Rondônia', 8.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Rondônia', 8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Rondï¿½nia', 10.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Rondï¿½nia', 10.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Rondï¿½nia', 9.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Rondï¿½nia', 9.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Rondï¿½nia', 10.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Rondï¿½nia', 10.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Rondï¿½nia', 9.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Rondï¿½nia', 8.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Rondï¿½nia', 8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
-, 'Rondônia', 9.6
+, 'Rondï¿½nia', 9.6
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Acre', 10.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Acre', 9.7);
@@ -1027,29 +1027,29 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
 , 'Roraima', 12.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Pará', 14.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Pará', 13.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Pará', 12.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Pará', 12.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Pará', 11.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Pará', 12.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Pará', 12.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Pará', 11.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Pará', 11.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Parï¿½', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Parï¿½', 13.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Parï¿½', 12.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Parï¿½', 12.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Parï¿½', 11.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Parï¿½', 12.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Parï¿½', 12.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Parï¿½', 11.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Parï¿½', 11.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
-, 'Pará', 11.1
+, 'Parï¿½', 11.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Amapá', 17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Amapá', 16.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Amapá', 16.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Amapá', 13.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Amapá', 12.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Amapá', 15.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Amapá', 14.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Amapá', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Amapá', 14.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Amapï¿½', 17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Amapï¿½', 16.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Amapï¿½', 16.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Amapï¿½', 13.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Amapï¿½', 12.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Amapï¿½', 15.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Amapï¿½', 14.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Amapï¿½', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Amapï¿½', 14.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
-, 'Amapá', 15.4
+, 'Amapï¿½', 15.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Tocantins', 10.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Tocantins', 10.7);
@@ -1075,41 +1075,41 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
 , 'Nordeste', 10.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Maranhão', 13.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Maranhão', 13.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Maranhão', 11.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Maranhão', 11.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Maranhão', 11.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Maranhão', 11.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Maranhão', 12.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Maranhão', 11.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Maranhão', 11.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Maranhï¿½o', 13.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Maranhï¿½o', 13.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Maranhï¿½o', 11.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Maranhï¿½o', 11.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Maranhï¿½o', 11.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Maranhï¿½o', 11.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Maranhï¿½o', 12.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Maranhï¿½o', 11.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Maranhï¿½o', 11.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
-, 'Maranhão', 11.5
+, 'Maranhï¿½o', 11.5
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Piauí', 15.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Piauí', 14.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Piauí', 13.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Piauí', 13.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Piauí', 11.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Piauí', 14.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Piauí', 12.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Piauí', 12.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Piauí', 11.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Piauï¿½', 15.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Piauï¿½', 14.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Piauï¿½', 13.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Piauï¿½', 13.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Piauï¿½', 11.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Piauï¿½', 14.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Piauï¿½', 12.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Piauï¿½', 12.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Piauï¿½', 11.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
-, 'Piauí', 10.8
+, 'Piauï¿½', 10.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Ceará', 10.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Ceará', 10.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Ceará', 10.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Ceará', 9.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Ceará', 9.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Ceará', 9.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Ceará', 10.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Ceará', 9.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Ceará', 9.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Cearï¿½', 10.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Cearï¿½', 10.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Cearï¿½', 10.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Cearï¿½', 9.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Cearï¿½', 9.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Cearï¿½', 9.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Cearï¿½', 10.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Cearï¿½', 9.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Cearï¿½', 9.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
-, 'Ceará', 9.2
+, 'Cearï¿½', 9.2
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Rio Grande do Norte', 11.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Rio Grande do Norte', 12.1);
@@ -1123,17 +1123,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
 , 'Rio Grande do Norte', 9.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Paraíba', 12.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Paraíba', 12.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Paraíba', 11.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Paraíba', 11.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Paraíba', 10);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Paraíba', 10.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Paraíba', 11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Paraíba', 9.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Paraíba', 10.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Paraï¿½ba', 12.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Paraï¿½ba', 12.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Paraï¿½ba', 11.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Paraï¿½ba', 11.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Paraï¿½ba', 10);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Paraï¿½ba', 10.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Paraï¿½ba', 11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Paraï¿½ba', 9.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Paraï¿½ba', 10.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
-, 'Paraíba', 10.1
+, 'Paraï¿½ba', 10.1
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Pernambuco', 10.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Pernambuco', 10.9);
@@ -1207,17 +1207,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
 , 'Minas Gerais', 8.5
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Espírito Santo', 8.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Espírito Santo', 7.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Espírito Santo', 7.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Espírito Santo', 8.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Espírito Santo', 7.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Espírito Santo', 8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Espírito Santo', 7.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Espírito Santo', 7.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Espírito Santo', 7.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Espï¿½rito Santo', 8.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Espï¿½rito Santo', 7.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Espï¿½rito Santo', 7.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Espï¿½rito Santo', 8.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Espï¿½rito Santo', 7.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Espï¿½rito Santo', 8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Espï¿½rito Santo', 7.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Espï¿½rito Santo', 7.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Espï¿½rito Santo', 7.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
-, 'Espírito Santo', 7
+, 'Espï¿½rito Santo', 7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Rio de Janeiro', 9.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Rio de Janeiro', 9.1);
@@ -1231,17 +1231,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
 , 'Rio de Janeiro', 8.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'São Paulo', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'São Paulo', 8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'São Paulo', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'São Paulo', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'São Paulo', 7.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'São Paulo', 7.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'São Paulo', 7.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'São Paulo', 7.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'São Paulo', 7.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Sï¿½o Paulo', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Sï¿½o Paulo', 8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Sï¿½o Paulo', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Sï¿½o Paulo', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Sï¿½o Paulo', 7.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Sï¿½o Paulo', 7.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Sï¿½o Paulo', 7.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Sï¿½o Paulo', 7.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Sï¿½o Paulo', 7.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
-, 'São Paulo', 7
+, 'Sï¿½o Paulo', 7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Sul', 7.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Sul', 7.7);
@@ -1255,17 +1255,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
 , 'Sul', 6.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Paraná', 8.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Paraná', 8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Paraná', 7.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Paraná', 8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Paraná', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Paraná', 7.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Paraná', 7.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Paraná', 7.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Paraná', 7.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Paranï¿½', 8.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Paranï¿½', 8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Paranï¿½', 7.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Paranï¿½', 8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Paranï¿½', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Paranï¿½', 7.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Paranï¿½', 7.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Paranï¿½', 7.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Paranï¿½', 7.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
-, 'Paraná', 6.8
+, 'Paranï¿½', 6.8
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Santa Catarina', 7.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Santa Catarina', 7.8);
@@ -1327,17 +1327,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
 , 'Mato Grosso', 9.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Goiás', 11.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Goiás', 12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Goiás', 11.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Goiás', 11.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Goiás', 10.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Goiás', 11.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Goiás', 9.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Goiás', 10.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Goiás', 10.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Goiï¿½s', 11.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Goiï¿½s', 12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2013, 'Goiï¿½s', 11.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2014, 'Goiï¿½s', 11.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2015, 'Goiï¿½s', 10.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2016, 'Goiï¿½s', 11.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2017, 'Goiï¿½s', 9.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2018, 'Goiï¿½s', 10.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2019, 'Goiï¿½s', 10.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2020
-, 'Goiás', 9
+, 'Goiï¿½s', 9
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2011, 'Distrito Federal', 8.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.2.2', 2012, 'Distrito Federal', 8.8);
@@ -1395,27 +1395,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
 , 'Norte', 50.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Rondônia', 37.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Rondônia', 37.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Rondônia', 36);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Rondônia', 36.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Rondônia', 29.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Rondônia', 30.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Rondônia', 30.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Rondônia', 36.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Rondônia', 29.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Rondônia', 35.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Rondônia', 34.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Rondônia', 34.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Rondônia', 34);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Rondônia', 31.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Rondônia', 35.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Rondônia', 34.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Rondônia', 31.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Rondônia', 34.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Rondônia', 26.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Rondï¿½nia', 37.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Rondï¿½nia', 37.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Rondï¿½nia', 36);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Rondï¿½nia', 36.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Rondï¿½nia', 29.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Rondï¿½nia', 30.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Rondï¿½nia', 30.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Rondï¿½nia', 36.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Rondï¿½nia', 29.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Rondï¿½nia', 35.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Rondï¿½nia', 34.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Rondï¿½nia', 34.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Rondï¿½nia', 34);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Rondï¿½nia', 31.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Rondï¿½nia', 35.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Rondï¿½nia', 34.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Rondï¿½nia', 31.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Rondï¿½nia', 34.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Rondï¿½nia', 26.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
-, 'Rondônia', 30
+, 'Rondï¿½nia', 30
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Acre', 50.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Acre', 49.3);
@@ -1483,49 +1483,49 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
 , 'Roraima', 51.5
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Pará', 50.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Pará', 51.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Pará', 52.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Pará', 50);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Pará', 46.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Pará', 46);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Pará', 44.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Pará', 47.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Pará', 47);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Pará', 48.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Pará', 44.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Pará', 45.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Pará', 43.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Pará', 42.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Pará', 44);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Pará', 46.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Pará', 47.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Pará', 55.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Pará', 47.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Parï¿½', 50.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Parï¿½', 51.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Parï¿½', 52.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Parï¿½', 50);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Parï¿½', 46.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Parï¿½', 46);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Parï¿½', 44.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Parï¿½', 47.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Parï¿½', 47);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Parï¿½', 48.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Parï¿½', 44.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Parï¿½', 45.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Parï¿½', 43.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Parï¿½', 42.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Parï¿½', 44);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Parï¿½', 46.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Parï¿½', 47.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Parï¿½', 55.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Parï¿½', 47.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
-, 'Pará', 50.1
+, 'Parï¿½', 50.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Amapá', 48.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Amapá', 39.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Amapá', 40.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Amapá', 39.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Amapá', 37.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Amapá', 39.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Amapá', 36.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Amapá', 33.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Amapá', 28.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Amapá', 32.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Amapá', 28.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Amapá', 25.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Amapá', 22.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Amapá', 23.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Amapá', 29.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Amapá', 31.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Amapá', 27.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Amapá', 35.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Amapá', 31.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Amapï¿½', 48.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Amapï¿½', 39.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Amapï¿½', 40.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Amapï¿½', 39.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Amapï¿½', 37.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Amapï¿½', 39.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Amapï¿½', 36.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Amapï¿½', 33.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Amapï¿½', 28.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Amapï¿½', 32.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Amapï¿½', 28.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Amapï¿½', 25.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Amapï¿½', 22.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Amapï¿½', 23.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Amapï¿½', 29.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Amapï¿½', 31.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Amapï¿½', 27.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Amapï¿½', 35.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Amapï¿½', 31.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
-, 'Amapá', 38.9
+, 'Amapï¿½', 38.9
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Tocantins', 22.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Tocantins', 17.6);
@@ -1571,71 +1571,71 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
 , 'Nordeste', 32.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Maranhão', 45.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Maranhão', 43.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Maranhão', 43.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Maranhão', 44.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Maranhão', 40.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Maranhão', 38.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Maranhão', 34.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Maranhão', 32.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Maranhão', 31.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Maranhão', 32.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Maranhão', 28.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Maranhão', 29);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Maranhão', 26.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Maranhão', 28.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Maranhão', 30.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Maranhão', 30.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Maranhão', 32.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Maranhão', 31.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Maranhão', 29.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Maranhï¿½o', 45.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Maranhï¿½o', 43.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Maranhï¿½o', 43.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Maranhï¿½o', 44.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Maranhï¿½o', 40.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Maranhï¿½o', 38.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Maranhï¿½o', 34.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Maranhï¿½o', 32.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Maranhï¿½o', 31.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Maranhï¿½o', 32.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Maranhï¿½o', 28.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Maranhï¿½o', 29);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Maranhï¿½o', 26.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Maranhï¿½o', 28.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Maranhï¿½o', 30.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Maranhï¿½o', 30.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Maranhï¿½o', 32.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Maranhï¿½o', 31.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Maranhï¿½o', 29.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
-, 'Maranhão', 32.8
+, 'Maranhï¿½o', 32.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Piauí', 37.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Piauí', 34.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Piauí', 36.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Piauí', 35.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Piauí', 31.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Piauí', 32);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Piauí', 28.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Piauí', 26.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Piauí', 24.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Piauí', 24.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Piauí', 22.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Piauí', 22.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Piauí', 19.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Piauí', 17.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Piauí', 19.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Piauí', 20.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Piauí', 22.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Piauí', 20.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Piauí', 19.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Piauï¿½', 37.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Piauï¿½', 34.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Piauï¿½', 36.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Piauï¿½', 35.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Piauï¿½', 31.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Piauï¿½', 32);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Piauï¿½', 28.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Piauï¿½', 26.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Piauï¿½', 24.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Piauï¿½', 24.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Piauï¿½', 22.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Piauï¿½', 22.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Piauï¿½', 19.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Piauï¿½', 17.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Piauï¿½', 19.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Piauï¿½', 20.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Piauï¿½', 22.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Piauï¿½', 20.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Piauï¿½', 19.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
-, 'Piauí', 21.3
+, 'Piauï¿½', 21.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Ceará', 46.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Ceará', 49.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Ceará', 48.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Ceará', 49.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Ceará', 43);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Ceará', 42);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Ceará', 45.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Ceará', 45.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Ceará', 41.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Ceará', 42.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Ceará', 39.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Ceará', 37.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Ceará', 36.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Ceará', 37.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Ceará', 37.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Ceará', 38.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Ceará', 40.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Ceará', 40.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Ceará', 33.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Cearï¿½', 46.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Cearï¿½', 49.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Cearï¿½', 48.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Cearï¿½', 49.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Cearï¿½', 43);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Cearï¿½', 42);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Cearï¿½', 45.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Cearï¿½', 45.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Cearï¿½', 41.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Cearï¿½', 42.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Cearï¿½', 39.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Cearï¿½', 37.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Cearï¿½', 36.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Cearï¿½', 37.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Cearï¿½', 37.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Cearï¿½', 38.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Cearï¿½', 40.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Cearï¿½', 40.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Cearï¿½', 33.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
-, 'Ceará', 35.4
+, 'Cearï¿½', 35.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Rio Grande do Norte', 37.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Rio Grande do Norte', 38.4);
@@ -1659,27 +1659,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
 , 'Rio Grande do Norte', 30.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Paraíba', 32.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Paraíba', 32.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Paraíba', 33.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Paraíba', 33.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Paraíba', 26.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Paraíba', 26.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Paraíba', 28.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Paraíba', 27.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Paraíba', 26.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Paraíba', 28.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Paraíba', 29.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Paraíba', 28.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Paraíba', 26.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Paraíba', 25.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Paraíba', 25);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Paraíba', 27.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Paraíba', 31.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Paraíba', 28.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Paraíba', 25.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Paraï¿½ba', 32.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Paraï¿½ba', 32.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Paraï¿½ba', 33.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Paraï¿½ba', 33.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Paraï¿½ba', 26.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Paraï¿½ba', 26.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Paraï¿½ba', 28.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Paraï¿½ba', 27.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Paraï¿½ba', 26.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Paraï¿½ba', 28.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Paraï¿½ba', 29.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Paraï¿½ba', 28.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Paraï¿½ba', 26.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Paraï¿½ba', 25.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Paraï¿½ba', 25);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Paraï¿½ba', 27.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Paraï¿½ba', 31.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Paraï¿½ba', 28.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Paraï¿½ba', 25.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
-, 'Paraíba', 27.7
+, 'Paraï¿½ba', 27.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Pernambuco', 49.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Pernambuco', 51.8);
@@ -1813,27 +1813,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
 , 'Minas Gerais', 15.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Espírito Santo', 41.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Espírito Santo', 40.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Espírito Santo', 38.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Espírito Santo', 37.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Espírito Santo', 35.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Espírito Santo', 36.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Espírito Santo', 39.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Espírito Santo', 36.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Espírito Santo', 36.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Espírito Santo', 34.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Espírito Santo', 34.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Espírito Santo', 32.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Espírito Santo', 30.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Espírito Santo', 31.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Espírito Santo', 27.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Espírito Santo', 29.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Espírito Santo', 31.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Espírito Santo', 30.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Espírito Santo', 32.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Espï¿½rito Santo', 41.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Espï¿½rito Santo', 40.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Espï¿½rito Santo', 38.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Espï¿½rito Santo', 37.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Espï¿½rito Santo', 35.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Espï¿½rito Santo', 36.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Espï¿½rito Santo', 39.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Espï¿½rito Santo', 36.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Espï¿½rito Santo', 36.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Espï¿½rito Santo', 34.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Espï¿½rito Santo', 34.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Espï¿½rito Santo', 32.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Espï¿½rito Santo', 30.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Espï¿½rito Santo', 31.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Espï¿½rito Santo', 27.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Espï¿½rito Santo', 29.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Espï¿½rito Santo', 31.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Espï¿½rito Santo', 30.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Espï¿½rito Santo', 32.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
-, 'Espírito Santo', 37
+, 'Espï¿½rito Santo', 37
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Rio de Janeiro', 91);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Rio de Janeiro', 88);
@@ -1857,27 +1857,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
 , 'Rio de Janeiro', 68.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'São Paulo', 42.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'São Paulo', 41.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'São Paulo', 39.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'São Paulo', 39.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'São Paulo', 38.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'São Paulo', 37.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'São Paulo', 38.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'São Paulo', 37.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'São Paulo', 38.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'São Paulo', 39.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'São Paulo', 37.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'São Paulo', 38.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'São Paulo', 38.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'São Paulo', 38.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'São Paulo', 38.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'São Paulo', 41);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'São Paulo', 40.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'São Paulo', 39.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'São Paulo', 35);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Sï¿½o Paulo', 42.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Sï¿½o Paulo', 41.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Sï¿½o Paulo', 39.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Sï¿½o Paulo', 39.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Sï¿½o Paulo', 38.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Sï¿½o Paulo', 37.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Sï¿½o Paulo', 38.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Sï¿½o Paulo', 37.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Sï¿½o Paulo', 38.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Sï¿½o Paulo', 39.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Sï¿½o Paulo', 37.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Sï¿½o Paulo', 38.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Sï¿½o Paulo', 38.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Sï¿½o Paulo', 38.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Sï¿½o Paulo', 38.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Sï¿½o Paulo', 41);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Sï¿½o Paulo', 40.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Sï¿½o Paulo', 39.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Sï¿½o Paulo', 35);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
-, 'São Paulo', 34.9
+, 'Sï¿½o Paulo', 34.9
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Sul', 34.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Sul', 35.2);
@@ -1901,27 +1901,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
 , 'Sul', 26.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Paraná', 28.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Paraná', 28.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Paraná', 26);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Paraná', 26.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Paraná', 22.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Paraná', 24.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Paraná', 24.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Paraná', 22.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Paraná', 22.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Paraná', 21.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Paraná', 20.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Paraná', 21.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Paraná', 20.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Paraná', 19.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Paraná', 19.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Paraná', 18.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Paraná', 20.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Paraná', 20.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Paraná', 18.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Paranï¿½', 28.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Paranï¿½', 28.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Paranï¿½', 26);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Paranï¿½', 26.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Paranï¿½', 22.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Paranï¿½', 24.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Paranï¿½', 24.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Paranï¿½', 22.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Paranï¿½', 22.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Paranï¿½', 21.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Paranï¿½', 20.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Paranï¿½', 21.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Paranï¿½', 20.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Paranï¿½', 19.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Paranï¿½', 19.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Paranï¿½', 18.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Paranï¿½', 20.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Paranï¿½', 20.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Paranï¿½', 18.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
-, 'Paraná', 17.4
+, 'Paranï¿½', 17.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Santa Catarina', 27.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Santa Catarina', 27.8);
@@ -2033,27 +2033,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
 , 'Mato Grosso', 29.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Goiás', 19.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Goiás', 19.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Goiás', 17.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Goiás', 16.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Goiás', 15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Goiás', 14.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Goiás', 14.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Goiás', 14.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Goiás', 14.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Goiás', 14.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Goiás', 14.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Goiás', 14.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Goiás', 13.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Goiás', 14.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Goiás', 13.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Goiás', 15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Goiás', 15.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Goiás', 14.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Goiás', 13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Goiï¿½s', 19.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Goiï¿½s', 19.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2004, 'Goiï¿½s', 17.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2005, 'Goiï¿½s', 16.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2006, 'Goiï¿½s', 15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2007, 'Goiï¿½s', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2008, 'Goiï¿½s', 14.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2009, 'Goiï¿½s', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2010, 'Goiï¿½s', 14.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2011, 'Goiï¿½s', 14.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2012, 'Goiï¿½s', 14.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2013, 'Goiï¿½s', 14.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2014, 'Goiï¿½s', 13.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2015, 'Goiï¿½s', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2016, 'Goiï¿½s', 13.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2017, 'Goiï¿½s', 15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2018, 'Goiï¿½s', 15.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2019, 'Goiï¿½s', 14.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2020, 'Goiï¿½s', 13);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
-, 'Goiás', 13.4
+, 'Goiï¿½s', 13.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2002, 'Distrito Federal', 16.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2003, 'Distrito Federal', 16.9);
@@ -2077,47 +2077,47 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.2', 2021
 , 'Distrito Federal', 10.2
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Região Amazônica Brasileira', 19.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Região Amazônica Brasileira', 25);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2006, 'Região Amazônica Brasileira', 22.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2007, 'Região Amazônica Brasileira', 18.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2008, 'Região Amazônica Brasileira', 12.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2009, 'Região Amazônica Brasileira', 11.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2010, 'Região Amazônica Brasileira', 12.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2011, 'Região Amazônica Brasileira', 9.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2012, 'Região Amazônica Brasileira', 8.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2013, 'Região Amazônica Brasileira', 6.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2014, 'Região Amazônica Brasileira', 5.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2015, 'Região Amazônica Brasileira', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2016, 'Região Amazônica Brasileira', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2017, 'Região Amazônica Brasileira', 6.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2018, 'Região Amazônica Brasileira', 6.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2019, 'Região Amazônica Brasileira', 5.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2020, 'Região Amazônica Brasileira', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2021, 'Região Amazônica Brasileira', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Regiï¿½o Amazï¿½nica Brasileira', 19.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Regiï¿½o Amazï¿½nica Brasileira', 25);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2006, 'Regiï¿½o Amazï¿½nica Brasileira', 22.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2007, 'Regiï¿½o Amazï¿½nica Brasileira', 18.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2008, 'Regiï¿½o Amazï¿½nica Brasileira', 12.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2009, 'Regiï¿½o Amazï¿½nica Brasileira', 11.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2010, 'Regiï¿½o Amazï¿½nica Brasileira', 12.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2011, 'Regiï¿½o Amazï¿½nica Brasileira', 9.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2012, 'Regiï¿½o Amazï¿½nica Brasileira', 8.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2013, 'Regiï¿½o Amazï¿½nica Brasileira', 6.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2014, 'Regiï¿½o Amazï¿½nica Brasileira', 5.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2015, 'Regiï¿½o Amazï¿½nica Brasileira', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2016, 'Regiï¿½o Amazï¿½nica Brasileira', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2017, 'Regiï¿½o Amazï¿½nica Brasileira', 6.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2018, 'Regiï¿½o Amazï¿½nica Brasileira', 6.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2019, 'Regiï¿½o Amazï¿½nica Brasileira', 5.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2020, 'Regiï¿½o Amazï¿½nica Brasileira', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2021, 'Regiï¿½o Amazï¿½nica Brasileira', 4.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2022
-, 'Região Amazônica Brasileira', 4.3
+, 'Regiï¿½o Amazï¿½nica Brasileira', 4.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Rondônia', 68.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Rondônia', 75);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2006, 'Rondônia', 63);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2007, 'Rondônia', 49.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2008, 'Rondônia', 29.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2009, 'Rondônia', 25.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2010, 'Rondônia', 26.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2011, 'Rondônia', 18.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2012, 'Rondônia', 14.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2013, 'Rondônia', 8.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2014, 'Rondônia', 5.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2015, 'Rondônia', 4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2016, 'Rondônia', 4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2017, 'Rondônia', 3.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2018, 'Rondônia', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2019, 'Rondônia', 5.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2020, 'Rondônia', 6.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2021, 'Rondônia', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Rondï¿½nia', 68.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Rondï¿½nia', 75);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2006, 'Rondï¿½nia', 63);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2007, 'Rondï¿½nia', 49.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2008, 'Rondï¿½nia', 29.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2009, 'Rondï¿½nia', 25.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2010, 'Rondï¿½nia', 26.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2011, 'Rondï¿½nia', 18.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2012, 'Rondï¿½nia', 14.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2013, 'Rondï¿½nia', 8.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2014, 'Rondï¿½nia', 5.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2015, 'Rondï¿½nia', 4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2016, 'Rondï¿½nia', 4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2017, 'Rondï¿½nia', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2018, 'Rondï¿½nia', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2019, 'Rondï¿½nia', 5.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2020, 'Rondï¿½nia', 6.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2021, 'Rondï¿½nia', 7.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2022
-, 'Rondônia', 6.8
+, 'Rondï¿½nia', 6.8
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Acre', 43.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Acre', 80.3);
@@ -2182,47 +2182,47 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2022
 , 'Roraima', 38.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Pará', 16);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Pará', 17.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2006, 'Pará', 14.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2007, 'Pará', 10.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2008, 'Pará', 9.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2009, 'Pará', 13.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2010, 'Pará', 17.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2011, 'Pará', 14.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2012, 'Pará', 10.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2013, 'Pará', 3.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2014, 'Pará', 1.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2015, 'Pará', 1.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2016, 'Pará', 1.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2017, 'Pará', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2018, 'Pará', 5.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2019, 'Pará', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2020, 'Pará', 2.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2021, 'Pará', 2.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Parï¿½', 16);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Parï¿½', 17.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2006, 'Parï¿½', 14.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2007, 'Parï¿½', 10.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2008, 'Parï¿½', 9.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2009, 'Parï¿½', 13.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2010, 'Parï¿½', 17.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2011, 'Parï¿½', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2012, 'Parï¿½', 10.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2013, 'Parï¿½', 3.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2014, 'Parï¿½', 1.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2015, 'Parï¿½', 1.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2016, 'Parï¿½', 1.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2017, 'Parï¿½', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2018, 'Parï¿½', 5.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2019, 'Parï¿½', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2020, 'Parï¿½', 2.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2021, 'Parï¿½', 2.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2022
-, 'Pará', 2.6
+, 'Parï¿½', 2.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Amapá', 25);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Amapá', 38.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2006, 'Amapá', 39.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2007, 'Amapá', 26.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2008, 'Amapá', 18.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2009, 'Amapá', 18.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2010, 'Amapá', 18);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2011, 'Amapá', 24.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2012, 'Amapá', 18);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2013, 'Amapá', 18.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2014, 'Amapá', 16.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2015, 'Amapá', 16.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2016, 'Amapá', 14.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2017, 'Amapá', 17.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2018, 'Amapá', 17.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2019, 'Amapá', 11.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2020, 'Amapá', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2021, 'Amapá', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Amapï¿½', 25);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Amapï¿½', 38.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2006, 'Amapï¿½', 39.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2007, 'Amapï¿½', 26.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2008, 'Amapï¿½', 18.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2009, 'Amapï¿½', 18.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2010, 'Amapï¿½', 18);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2011, 'Amapï¿½', 24.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2012, 'Amapï¿½', 18);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2013, 'Amapï¿½', 18.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2014, 'Amapï¿½', 16.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2015, 'Amapï¿½', 16.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2016, 'Amapï¿½', 14.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2017, 'Amapï¿½', 17.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2018, 'Amapï¿½', 17.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2019, 'Amapï¿½', 11.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2020, 'Amapï¿½', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2021, 'Amapï¿½', 4.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2022
-, 'Amapá', 3.1
+, 'Amapï¿½', 3.1
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Tocantins', 0.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Tocantins', 0.2);
@@ -2245,26 +2245,26 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2022
 , 'Tocantins', 0
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Maranhão', 2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Maranhão', 1.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2006, 'Maranhão', 1.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2007, 'Maranhão', 0.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2008, 'Maranhão', 0.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2009, 'Maranhão', 0.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2010, 'Maranhão', 0.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2011, 'Maranhão', 0.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2012, 'Maranhão', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2013, 'Maranhão', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2014, 'Maranhão', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2015, 'Maranhão', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2016, 'Maranhão', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2017, 'Maranhão', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2018, 'Maranhão', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2019, 'Maranhão', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2020, 'Maranhão', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2021, 'Maranhão', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Maranhï¿½o', 2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Maranhï¿½o', 1.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2006, 'Maranhï¿½o', 1.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2007, 'Maranhï¿½o', 0.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2008, 'Maranhï¿½o', 0.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2009, 'Maranhï¿½o', 0.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2010, 'Maranhï¿½o', 0.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2011, 'Maranhï¿½o', 0.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2012, 'Maranhï¿½o', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2013, 'Maranhï¿½o', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2014, 'Maranhï¿½o', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2015, 'Maranhï¿½o', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2016, 'Maranhï¿½o', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2017, 'Maranhï¿½o', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2018, 'Maranhï¿½o', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2019, 'Maranhï¿½o', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2020, 'Maranhï¿½o', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2021, 'Maranhï¿½o', 0);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2022
-, 'Maranhão', 0
+, 'Maranhï¿½o', 0
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2004, 'Mato Grosso', 2.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.3', 2005, 'Mato Grosso', 3.5);
@@ -2371,19 +2371,19 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
 , 'Centro-Oeste', 3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Rondônia', 30.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Rondônia', 29.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Rondônia', 33.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Rondônia', 33.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Rondônia', 41.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Rondônia', 37.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Rondônia', 36.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Rondônia', 34);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Rondônia', 30.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Rondônia', 30.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Rondônia', 28.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Rondï¿½nia', 30.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Rondï¿½nia', 29.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Rondï¿½nia', 33.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Rondï¿½nia', 33.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Rondï¿½nia', 41.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Rondï¿½nia', 37.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Rondï¿½nia', 36.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Rondï¿½nia', 34);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Rondï¿½nia', 30.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Rondï¿½nia', 30.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Rondï¿½nia', 28.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
-, 'Rondônia', 13
+, 'Rondï¿½nia', 13
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Acre', 94.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Acre', 63.7);
@@ -2427,33 +2427,33 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
 , 'Roraima', 17.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Pará', 2.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Pará', 3.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Pará', 2.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Pará', 3.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Pará', 3.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Pará', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Pará', 3.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Pará', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Pará', 4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Pará', 4.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Pará', 5.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Parï¿½', 2.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Parï¿½', 3.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Parï¿½', 2.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Parï¿½', 3.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Parï¿½', 3.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Parï¿½', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Parï¿½', 3.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Parï¿½', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Parï¿½', 4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Parï¿½', 4.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Parï¿½', 5.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
-, 'Pará', 2
+, 'Parï¿½', 2
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Amapá', 3.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Amapá', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Amapá', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Amapá', 3.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Amapá', 4.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Amapá', 3.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Amapá', 3.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Amapá', 6.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Amapá', 6.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Amapá', 4.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Amapá', 1.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Amapï¿½', 3.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Amapï¿½', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Amapï¿½', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Amapï¿½', 3.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Amapï¿½', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Amapï¿½', 3.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Amapï¿½', 3.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Amapï¿½', 6.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Amapï¿½', 6.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Amapï¿½', 4.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Amapï¿½', 1.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
-, 'Amapá', 0.7
+, 'Amapï¿½', 0.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Tocantins', 9.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Tocantins', 8.6);
@@ -2469,47 +2469,47 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
 , 'Tocantins', 1.7
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Maranhão', 4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Maranhão', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Maranhão', 4.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Maranhão', 3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Maranhão', 2.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Maranhão', 2.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Maranhão', 2.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Maranhão', 2.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Maranhão', 2.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Maranhão', 4.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Maranhão', 4.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Maranhï¿½o', 4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Maranhï¿½o', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Maranhï¿½o', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Maranhï¿½o', 3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Maranhï¿½o', 2.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Maranhï¿½o', 2.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Maranhï¿½o', 2.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Maranhï¿½o', 2.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Maranhï¿½o', 2.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Maranhï¿½o', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Maranhï¿½o', 4.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
-, 'Maranhão', 1.5
+, 'Maranhï¿½o', 1.5
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Piauí', 1.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Piauí', 0.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Piauí', 1.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Piauí', 1.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Piauí', 1.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Piauí', 2.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Piauí', 1.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Piauí', 1.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Piauí', 1.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Piauí', 2.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Piauí', 2.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Piauï¿½', 1.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Piauï¿½', 0.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Piauï¿½', 1.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Piauï¿½', 1.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Piauï¿½', 1.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Piauï¿½', 2.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Piauï¿½', 1.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Piauï¿½', 1.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Piauï¿½', 1.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Piauï¿½', 2.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Piauï¿½', 2.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
-, 'Piauí', 0.6
+, 'Piauï¿½', 0.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Ceará', 2.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Ceará', 1.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Ceará', 1.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Ceará', 2.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Ceará', 1.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Ceará', 1.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Ceará', 1.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Ceará', 1.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Ceará', 1.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Ceará', 1.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Ceará', 1.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Cearï¿½', 2.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Cearï¿½', 1.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Cearï¿½', 1.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Cearï¿½', 2.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Cearï¿½', 1.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Cearï¿½', 1.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Cearï¿½', 1.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Cearï¿½', 1.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Cearï¿½', 1.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Cearï¿½', 1.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Cearï¿½', 1.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
-, 'Ceará', 1
+, 'Cearï¿½', 1
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Rio Grande do Norte', 1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Rio Grande do Norte', 1.2);
@@ -2525,19 +2525,19 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
 , 'Rio Grande do Norte', 0.7
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Paraíba', 2.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Paraíba', 3.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Paraíba', 4.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Paraíba', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Paraíba', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Paraíba', 3.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Paraíba', 1.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Paraíba', 1.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Paraíba', 1.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Paraíba', 2.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Paraíba', 2.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Paraï¿½ba', 2.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Paraï¿½ba', 3.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Paraï¿½ba', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Paraï¿½ba', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Paraï¿½ba', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Paraï¿½ba', 3.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Paraï¿½ba', 1.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Paraï¿½ba', 1.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Paraï¿½ba', 1.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Paraï¿½ba', 2.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Paraï¿½ba', 2.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
-, 'Paraíba', 0.8
+, 'Paraï¿½ba', 0.8
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Pernambuco', 1.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Pernambuco', 1.8);
@@ -2609,19 +2609,19 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
 , 'Minas Gerais', 1.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Espírito Santo', 12.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Espírito Santo', 9.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Espírito Santo', 12.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Espírito Santo', 15.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Espírito Santo', 13.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Espírito Santo', 12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Espírito Santo', 9.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Espírito Santo', 8.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Espírito Santo', 9.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Espírito Santo', 8.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Espírito Santo', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Espï¿½rito Santo', 12.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Espï¿½rito Santo', 9.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Espï¿½rito Santo', 12.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Espï¿½rito Santo', 15.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Espï¿½rito Santo', 13.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Espï¿½rito Santo', 12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Espï¿½rito Santo', 9.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Espï¿½rito Santo', 8.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Espï¿½rito Santo', 9.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Espï¿½rito Santo', 8.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Espï¿½rito Santo', 6.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
-, 'Espírito Santo', 2.3
+, 'Espï¿½rito Santo', 2.3
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Rio de Janeiro', 4.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Rio de Janeiro', 4.6);
@@ -2637,33 +2637,33 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
 , 'Rio de Janeiro', 1.2
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'São Paulo', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'São Paulo', 7.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'São Paulo', 8.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'São Paulo', 8.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'São Paulo', 7.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'São Paulo', 6.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'São Paulo', 6.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'São Paulo', 6.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'São Paulo', 6.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'São Paulo', 5.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'São Paulo', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Sï¿½o Paulo', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Sï¿½o Paulo', 7.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Sï¿½o Paulo', 8.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Sï¿½o Paulo', 8.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Sï¿½o Paulo', 7.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Sï¿½o Paulo', 6.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Sï¿½o Paulo', 6.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Sï¿½o Paulo', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Sï¿½o Paulo', 6.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Sï¿½o Paulo', 5.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Sï¿½o Paulo', 4.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
-, 'São Paulo', 1.9
+, 'Sï¿½o Paulo', 1.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Paraná', 13.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Paraná', 15.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Paraná', 19.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Paraná', 18);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Paraná', 17.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Paraná', 18.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Paraná', 16.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Paraná', 16.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Paraná', 14.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Paraná', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Paraná', 14.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Paranï¿½', 13.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Paranï¿½', 15.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Paranï¿½', 19.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Paranï¿½', 18);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Paranï¿½', 17.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Paranï¿½', 18.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Paranï¿½', 16.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Paranï¿½', 16.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Paranï¿½', 14.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Paranï¿½', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Paranï¿½', 14.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
-, 'Paraná', 7
+, 'Paranï¿½', 7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Santa Catarina', 21.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Santa Catarina', 20.8);
@@ -2721,19 +2721,19 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
 , 'Mato Grosso', 6.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Goiás', 8.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Goiás', 6.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Goiás', 6.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Goiás', 5.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Goiás', 5.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Goiás', 5.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Goiás', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Goiás', 6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Goiás', 6.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Goiás', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Goiás', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Goiï¿½s', 8.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Goiï¿½s', 6.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2011, 'Goiï¿½s', 6.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2012, 'Goiï¿½s', 5.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2013, 'Goiï¿½s', 5.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2014, 'Goiï¿½s', 5.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2015, 'Goiï¿½s', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2016, 'Goiï¿½s', 6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2017, 'Goiï¿½s', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2018, 'Goiï¿½s', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2019, 'Goiï¿½s', 4.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2020
-, 'Goiás', 2.2
+, 'Goiï¿½s', 2.2
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2009, 'Distrito Federal', 6.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.4', 2010, 'Distrito Federal', 5);
@@ -2757,9 +2757,9 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
 , 'Norte', 217375
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Rondônia', 2690);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Rondï¿½nia', 2690);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
-, 'Rondônia', 2669
+, 'Rondï¿½nia', 2669
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Acre', 14306);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
@@ -2773,13 +2773,13 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
 , 'Roraima', 13779
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Pará', 48877);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Parï¿½', 48877);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
-, 'Pará', 50280
+, 'Parï¿½', 50280
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Amapá', 24473);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Amapï¿½', 24473);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
-, 'Amapá', 30214
+, 'Amapï¿½', 30214
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Tocantins', 6943);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
@@ -2789,25 +2789,25 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
 , 'Nordeste', 873657
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Maranhão', 112474);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Maranhï¿½o', 112474);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
-, 'Maranhão', 107097
+, 'Maranhï¿½o', 107097
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Piauí', 5364);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Piauï¿½', 5364);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
-, 'Piauí', 11018
+, 'Piauï¿½', 11018
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Ceará', 25635);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Cearï¿½', 25635);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
-, 'Ceará', 37189
+, 'Cearï¿½', 37189
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Rio Grande do Norte', 140020);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
 , 'Rio Grande do Norte', 147366
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Paraíba', 26991);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Paraï¿½ba', 26991);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
-, 'Paraíba', 35374
+, 'Paraï¿½ba', 35374
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Pernambuco', 81254);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
@@ -2833,25 +2833,25 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
 , 'Minas Gerais', 547575
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Espírito Santo', 12304);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Espï¿½rito Santo', 12304);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
-, 'Espírito Santo', 66091
+, 'Espï¿½rito Santo', 66091
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Rio de Janeiro', 22724);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
 , 'Rio de Janeiro', 38817
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'São Paulo', 31056);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Sï¿½o Paulo', 31056);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
-, 'São Paulo', 453831
+, 'Sï¿½o Paulo', 453831
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Sul', 60656);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
 , 'Sul', 107176
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Paraná', 54144);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Paranï¿½', 54144);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
-, 'Paraná', 96944
+, 'Paranï¿½', 96944
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Santa Catarina', 5157);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
@@ -2873,9 +2873,9 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
 , 'Mato Grosso', 19198
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Goiás', 95095);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Goiï¿½s', 95095);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
-, 'Goiás', 124191
+, 'Goiï¿½s', 124191
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2018, 'Distrito Federal', 4545);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.3.5', 2019
@@ -2925,27 +2925,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
 , 'Norte', 14.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Rondônia', 17.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Rondônia', 16.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Rondônia', 16.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Rondônia', 17.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Rondônia', 16);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Rondônia', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Rondônia', 14.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Rondônia', 15.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Rondônia', 16.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Rondônia', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Rondônia', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Rondônia', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Rondônia', 14.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Rondônia', 14.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Rondônia', 14.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Rondônia', 14.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Rondônia', 14.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Rondônia', 13.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Rondônia', 13.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Rondï¿½nia', 17.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Rondï¿½nia', 16.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Rondï¿½nia', 16.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Rondï¿½nia', 17.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Rondï¿½nia', 16);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Rondï¿½nia', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Rondï¿½nia', 14.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Rondï¿½nia', 15.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Rondï¿½nia', 16.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Rondï¿½nia', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Rondï¿½nia', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Rondï¿½nia', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Rondï¿½nia', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Rondï¿½nia', 14.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Rondï¿½nia', 14.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Rondï¿½nia', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Rondï¿½nia', 14.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Rondï¿½nia', 13.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Rondï¿½nia', 13.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
-, 'Rondônia', 13
+, 'Rondï¿½nia', 13
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Acre', 12.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Acre', 12.2);
@@ -3013,49 +3013,49 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
 , 'Roraima', 16.5
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Pará', 12.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Pará', 11.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Pará', 12.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Pará', 12.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Pará', 12.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Pará', 12.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Pará', 13.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Pará', 14.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Pará', 14);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Pará', 13.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Pará', 14);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Pará', 14.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Pará', 14);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Pará', 13.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Pará', 14.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Pará', 14.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Pará', 14.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Pará', 13.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Pará', 13.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Parï¿½', 12.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Parï¿½', 11.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Parï¿½', 12.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Parï¿½', 12.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Parï¿½', 12.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Parï¿½', 12.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Parï¿½', 13.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Parï¿½', 14.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Parï¿½', 14);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Parï¿½', 13.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Parï¿½', 14);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Parï¿½', 14.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Parï¿½', 14);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Parï¿½', 13.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Parï¿½', 14.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Parï¿½', 14.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Parï¿½', 14.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Parï¿½', 13.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Parï¿½', 13.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
-, 'Pará', 14.4
+, 'Parï¿½', 14.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Amapá', 16.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Amapá', 14.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Amapá', 14.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Amapá', 15.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Amapá', 12.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Amapá', 10.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Amapá', 11.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Amapá', 13.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Amapá', 11.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Amapá', 11.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Amapá', 13.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Amapá', 15.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Amapá', 13.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Amapá', 15.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Amapá', 14.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Amapá', 14.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Amapá', 14.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Amapá', 14.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Amapá', 15.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Amapï¿½', 16.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Amapï¿½', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Amapï¿½', 14.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Amapï¿½', 15.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Amapï¿½', 12.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Amapï¿½', 10.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Amapï¿½', 11.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Amapï¿½', 13.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Amapï¿½', 11.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Amapï¿½', 11.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Amapï¿½', 13.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Amapï¿½', 15.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Amapï¿½', 13.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Amapï¿½', 15.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Amapï¿½', 14.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Amapï¿½', 14.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Amapï¿½', 14.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Amapï¿½', 14.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Amapï¿½', 15.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
-, 'Amapá', 14.9
+, 'Amapï¿½', 14.9
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Tocantins', 14.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Tocantins', 15.5);
@@ -3101,71 +3101,71 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
 , 'Nordeste', 14.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Maranhão', 9.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Maranhão', 9.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Maranhão', 10.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Maranhão', 10.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Maranhão', 13.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Maranhão', 13.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Maranhão', 14.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Maranhão', 15.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Maranhão', 15.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Maranhão', 15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Maranhão', 15.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Maranhão', 15.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Maranhão', 15.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Maranhão', 15.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Maranhão', 15.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Maranhão', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Maranhão', 16);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Maranhão', 15.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Maranhão', 15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Maranhï¿½o', 9.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Maranhï¿½o', 9.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Maranhï¿½o', 10.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Maranhï¿½o', 10.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Maranhï¿½o', 13.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Maranhï¿½o', 13.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Maranhï¿½o', 14.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Maranhï¿½o', 15.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Maranhï¿½o', 15.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Maranhï¿½o', 15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Maranhï¿½o', 15.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Maranhï¿½o', 15.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Maranhï¿½o', 15.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Maranhï¿½o', 15.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Maranhï¿½o', 15.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Maranhï¿½o', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Maranhï¿½o', 16);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Maranhï¿½o', 15.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Maranhï¿½o', 15);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
-, 'Maranhão', 15.9
+, 'Maranhï¿½o', 15.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Piauí', 12.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Piauí', 12.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Piauí', 12.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Piauí', 12.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Piauí', 13.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Piauí', 15.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Piauí', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Piauí', 16.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Piauí', 15.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Piauí', 14.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Piauí', 15.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Piauí', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Piauí', 15.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Piauí', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Piauí', 15.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Piauí', 15.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Piauí', 15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Piauí', 14.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Piauí', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Piauï¿½', 12.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Piauï¿½', 12.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Piauï¿½', 12.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Piauï¿½', 12.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Piauï¿½', 13.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Piauï¿½', 15.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Piauï¿½', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Piauï¿½', 16.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Piauï¿½', 15.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Piauï¿½', 14.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Piauï¿½', 15.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Piauï¿½', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Piauï¿½', 15.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Piauï¿½', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Piauï¿½', 15.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Piauï¿½', 15.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Piauï¿½', 15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Piauï¿½', 14.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Piauï¿½', 14.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
-, 'Piauí', 14.5
+, 'Piauï¿½', 14.5
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Ceará', 12.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Ceará', 13.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Ceará', 12.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Ceará', 13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Ceará', 13.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Ceará', 14.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Ceará', 14.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Ceará', 15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Ceará', 14.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Ceará', 13.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Ceará', 14.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Ceará', 14.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Ceará', 13.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Ceará', 13.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Ceará', 14.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Ceará', 13.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Ceará', 14.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Ceará', 14.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Ceará', 14.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Cearï¿½', 12.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Cearï¿½', 13.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Cearï¿½', 12.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Cearï¿½', 13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Cearï¿½', 13.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Cearï¿½', 14.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Cearï¿½', 14.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Cearï¿½', 15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Cearï¿½', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Cearï¿½', 13.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Cearï¿½', 14.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Cearï¿½', 14.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Cearï¿½', 13.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Cearï¿½', 13.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Cearï¿½', 14.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Cearï¿½', 13.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Cearï¿½', 14.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Cearï¿½', 14.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Cearï¿½', 14.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
-, 'Ceará', 13.7
+, 'Cearï¿½', 13.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Rio Grande do Norte', 12.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Rio Grande do Norte', 12.9);
@@ -3189,27 +3189,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
 , 'Rio Grande do Norte', 14.2
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Paraíba', 10.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Paraíba', 11.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Paraíba', 12.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Paraíba', 13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Paraíba', 15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Paraíba', 14.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Paraíba', 16.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Paraíba', 17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Paraíba', 16.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Paraíba', 16.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Paraíba', 16.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Paraíba', 16.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Paraíba', 16.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Paraíba', 16);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Paraíba', 15.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Paraíba', 16.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Paraíba', 15.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Paraíba', 15.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Paraíba', 15.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Paraï¿½ba', 10.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Paraï¿½ba', 11.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Paraï¿½ba', 12.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Paraï¿½ba', 13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Paraï¿½ba', 15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Paraï¿½ba', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Paraï¿½ba', 16.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Paraï¿½ba', 17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Paraï¿½ba', 16.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Paraï¿½ba', 16.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Paraï¿½ba', 16.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Paraï¿½ba', 16.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Paraï¿½ba', 16.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Paraï¿½ba', 16);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Paraï¿½ba', 15.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Paraï¿½ba', 16.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Paraï¿½ba', 15.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Paraï¿½ba', 15.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Paraï¿½ba', 15.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
-, 'Paraíba', 14.9
+, 'Paraï¿½ba', 14.9
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Pernambuco', 18);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Pernambuco', 18.1);
@@ -3343,27 +3343,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
 , 'Minas Gerais', 13.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Espírito Santo', 18.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Espírito Santo', 18.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Espírito Santo', 19.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Espírito Santo', 20.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Espírito Santo', 19.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Espírito Santo', 19.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Espírito Santo', 18.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Espírito Santo', 18.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Espírito Santo', 18.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Espírito Santo', 17.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Espírito Santo', 16.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Espírito Santo', 16.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Espírito Santo', 15.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Espírito Santo', 15.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Espírito Santo', 15.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Espírito Santo', 15.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Espírito Santo', 14.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Espírito Santo', 14.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Espírito Santo', 14.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Espï¿½rito Santo', 18.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Espï¿½rito Santo', 18.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Espï¿½rito Santo', 19.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Espï¿½rito Santo', 20.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Espï¿½rito Santo', 19.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Espï¿½rito Santo', 19.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Espï¿½rito Santo', 18.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Espï¿½rito Santo', 18.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Espï¿½rito Santo', 18.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Espï¿½rito Santo', 17.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Espï¿½rito Santo', 16.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Espï¿½rito Santo', 16.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Espï¿½rito Santo', 15.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Espï¿½rito Santo', 15.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Espï¿½rito Santo', 15.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Espï¿½rito Santo', 15.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Espï¿½rito Santo', 14.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Espï¿½rito Santo', 14.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Espï¿½rito Santo', 14.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
-, 'Espírito Santo', 14.4
+, 'Espï¿½rito Santo', 14.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Rio de Janeiro', 23.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Rio de Janeiro', 22.8);
@@ -3387,27 +3387,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
 , 'Rio de Janeiro', 16
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'São Paulo', 21.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'São Paulo', 20.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'São Paulo', 20.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'São Paulo', 20.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'São Paulo', 19.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'São Paulo', 18.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'São Paulo', 18.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'São Paulo', 18.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'São Paulo', 17.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'São Paulo', 17.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'São Paulo', 17.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'São Paulo', 16.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'São Paulo', 16.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'São Paulo', 16.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'São Paulo', 16.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'São Paulo', 16.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'São Paulo', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'São Paulo', 15.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'São Paulo', 15.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Sï¿½o Paulo', 21.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Sï¿½o Paulo', 20.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Sï¿½o Paulo', 20.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Sï¿½o Paulo', 20.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Sï¿½o Paulo', 19.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Sï¿½o Paulo', 18.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Sï¿½o Paulo', 18.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Sï¿½o Paulo', 18.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Sï¿½o Paulo', 17.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Sï¿½o Paulo', 17.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Sï¿½o Paulo', 17.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Sï¿½o Paulo', 16.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Sï¿½o Paulo', 16.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Sï¿½o Paulo', 16.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Sï¿½o Paulo', 16.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Sï¿½o Paulo', 16.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Sï¿½o Paulo', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Sï¿½o Paulo', 15.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Sï¿½o Paulo', 15.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
-, 'São Paulo', 14.7
+, 'Sï¿½o Paulo', 14.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Sul', 22);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Sul', 21.6);
@@ -3431,27 +3431,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
 , 'Sul', 14.2
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Paraná', 22.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Paraná', 22.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Paraná', 21.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Paraná', 21.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Paraná', 20.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Paraná', 19.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Paraná', 19.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Paraná', 19.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Paraná', 18.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Paraná', 18.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Paraná', 18.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Paraná', 17.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Paraná', 17.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Paraná', 16.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Paraná', 16.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Paraná', 16.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Paraná', 15.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Paraná', 15.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Paraná', 14.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Paranï¿½', 22.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Paranï¿½', 22.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Paranï¿½', 21.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Paranï¿½', 21.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Paranï¿½', 20.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Paranï¿½', 19.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Paranï¿½', 19.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Paranï¿½', 19.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Paranï¿½', 18.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Paranï¿½', 18.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Paranï¿½', 18.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Paranï¿½', 17.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Paranï¿½', 17.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Paranï¿½', 16.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Paranï¿½', 16.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Paranï¿½', 16.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Paranï¿½', 15.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Paranï¿½', 15.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Paranï¿½', 14.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
-, 'Paraná', 14.5
+, 'Paranï¿½', 14.5
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Santa Catarina', 19.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Santa Catarina', 19.4);
@@ -3563,27 +3563,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
 , 'Mato Grosso', 14.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Goiás', 17.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Goiás', 18.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Goiás', 18.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Goiás', 19.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Goiás', 17.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Goiás', 17.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Goiás', 17.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Goiás', 17.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Goiás', 17.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Goiás', 17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Goiás', 17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Goiás', 17.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Goiás', 16.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Goiás', 16.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Goiás', 16.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Goiás', 15.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Goiás', 15.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Goiás', 15.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Goiás', 15.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Goiï¿½s', 17.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Goiï¿½s', 18.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2003, 'Goiï¿½s', 18.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2004, 'Goiï¿½s', 19.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2005, 'Goiï¿½s', 17.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2006, 'Goiï¿½s', 17.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2007, 'Goiï¿½s', 17.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2008, 'Goiï¿½s', 17.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2009, 'Goiï¿½s', 17.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2010, 'Goiï¿½s', 17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2011, 'Goiï¿½s', 17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2012, 'Goiï¿½s', 17.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2013, 'Goiï¿½s', 16.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2014, 'Goiï¿½s', 16.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2015, 'Goiï¿½s', 16.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2016, 'Goiï¿½s', 15.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2017, 'Goiï¿½s', 15.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2018, 'Goiï¿½s', 15.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2019, 'Goiï¿½s', 15.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2020
-, 'Goiás', 14.7
+, 'Goiï¿½s', 14.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2001, 'Distrito Federal', 20.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.1', 2002, 'Distrito Federal', 20);
@@ -3651,27 +3651,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
 , 'Norte', 6.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Rondônia', 6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Rondônia', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Rondônia', 4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Rondônia', 4.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Rondônia', 4.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Rondônia', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Rondônia', 3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Rondônia', 5.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Rondônia', 5.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Rondônia', 5.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Rondônia', 5.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Rondônia', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Rondônia', 5.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Rondônia', 5.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Rondônia', 7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Rondônia', 6.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Rondônia', 7.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Rondônia', 7.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Rondônia', 8.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Rondï¿½nia', 6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Rondï¿½nia', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Rondï¿½nia', 4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Rondï¿½nia', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Rondï¿½nia', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Rondï¿½nia', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Rondï¿½nia', 3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Rondï¿½nia', 5.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Rondï¿½nia', 5.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Rondï¿½nia', 5.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Rondï¿½nia', 5.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Rondï¿½nia', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Rondï¿½nia', 5.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Rondï¿½nia', 5.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Rondï¿½nia', 7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Rondï¿½nia', 6.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Rondï¿½nia', 7.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Rondï¿½nia', 7.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Rondï¿½nia', 8.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
-, 'Rondônia', 8.4
+, 'Rondï¿½nia', 8.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Acre', 5.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Acre', 4.2);
@@ -3739,49 +3739,49 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
 , 'Roraima', 6.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Pará', 2.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Pará', 2.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Pará', 2.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Pará', 2.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Pará', 2.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Pará', 2.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Pará', 2.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Pará', 3.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Pará', 2.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Pará', 2.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Pará', 3.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Pará', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Pará', 3.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Pará', 2.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Pará', 3.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Pará', 3.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Pará', 3.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Pará', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Pará', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Parï¿½', 2.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Parï¿½', 2.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Parï¿½', 2.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Parï¿½', 2.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Parï¿½', 2.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Parï¿½', 2.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Parï¿½', 2.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Parï¿½', 3.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Parï¿½', 2.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Parï¿½', 2.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Parï¿½', 3.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Parï¿½', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Parï¿½', 3.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Parï¿½', 2.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Parï¿½', 3.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Parï¿½', 3.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Parï¿½', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Parï¿½', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Parï¿½', 4.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
-, 'Pará', 4.9
+, 'Parï¿½', 4.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Amapá', 6.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Amapá', 8.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Amapá', 7.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Amapá', 7.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Amapá', 8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Amapá', 4.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Amapá', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Amapá', 5.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Amapá', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Amapá', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Amapá', 5.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Amapá', 3.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Amapá', 6.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Amapá', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Amapá', 7.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Amapá', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Amapá', 6.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Amapá', 8.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Amapá', 8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Amapï¿½', 6.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Amapï¿½', 8.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Amapï¿½', 7.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Amapï¿½', 7.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Amapï¿½', 8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Amapï¿½', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Amapï¿½', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Amapï¿½', 5.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Amapï¿½', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Amapï¿½', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Amapï¿½', 5.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Amapï¿½', 3.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Amapï¿½', 6.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Amapï¿½', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Amapï¿½', 7.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Amapï¿½', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Amapï¿½', 6.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Amapï¿½', 8.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Amapï¿½', 8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
-, 'Amapá', 6.5
+, 'Amapï¿½', 6.5
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Tocantins', 4.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Tocantins', 4.6);
@@ -3827,71 +3827,71 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
 , 'Nordeste', 6.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Maranhão', 2.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Maranhão', 2.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Maranhão', 1.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Maranhão', 1.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Maranhão', 2.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Maranhão', 2.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Maranhão', 2.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Maranhão', 3.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Maranhão', 2.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Maranhão', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Maranhão', 3.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Maranhão', 3.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Maranhão', 3.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Maranhão', 4.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Maranhão', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Maranhão', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Maranhão', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Maranhão', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Maranhão', 5.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Maranhï¿½o', 2.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Maranhï¿½o', 2.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Maranhï¿½o', 1.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Maranhï¿½o', 1.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Maranhï¿½o', 2.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Maranhï¿½o', 2.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Maranhï¿½o', 2.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Maranhï¿½o', 3.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Maranhï¿½o', 2.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Maranhï¿½o', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Maranhï¿½o', 3.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Maranhï¿½o', 3.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Maranhï¿½o', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Maranhï¿½o', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Maranhï¿½o', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Maranhï¿½o', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Maranhï¿½o', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Maranhï¿½o', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Maranhï¿½o', 5.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
-, 'Maranhão', 5.2
+, 'Maranhï¿½o', 5.2
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Piauí', 4.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Piauí', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Piauí', 5.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Piauí', 5.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Piauí', 5.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Piauí', 6.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Piauí', 7.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Piauí', 7.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Piauí', 7.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Piauí', 6.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Piauí', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Piauí', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Piauí', 7.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Piauí', 8.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Piauí', 9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Piauí', 10.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Piauí', 10.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Piauí', 10.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Piauí', 10.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Piauï¿½', 4.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Piauï¿½', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Piauï¿½', 5.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Piauï¿½', 5.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Piauï¿½', 5.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Piauï¿½', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Piauï¿½', 7.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Piauï¿½', 7.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Piauï¿½', 7.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Piauï¿½', 6.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Piauï¿½', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Piauï¿½', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Piauï¿½', 7.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Piauï¿½', 8.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Piauï¿½', 9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Piauï¿½', 10.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Piauï¿½', 10.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Piauï¿½', 10.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Piauï¿½', 10.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
-, 'Piauí', 10.3
+, 'Piauï¿½', 10.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Ceará', 5.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Ceará', 6.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Ceará', 5.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Ceará', 6.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Ceará', 7.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Ceará', 6.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Ceará', 6.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Ceará', 7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Ceará', 6.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Ceará', 6.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Ceará', 6.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Ceará', 6.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Ceará', 7.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Ceará', 6.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Ceará', 6.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Ceará', 7.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Ceará', 7.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Ceará', 7.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Ceará', 7.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Cearï¿½', 5.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Cearï¿½', 6.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Cearï¿½', 5.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Cearï¿½', 6.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Cearï¿½', 7.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Cearï¿½', 6.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Cearï¿½', 6.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Cearï¿½', 7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Cearï¿½', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Cearï¿½', 6.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Cearï¿½', 6.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Cearï¿½', 6.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Cearï¿½', 7.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Cearï¿½', 6.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Cearï¿½', 6.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Cearï¿½', 7.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Cearï¿½', 7.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Cearï¿½', 7.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Cearï¿½', 7.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
-, 'Ceará', 7.1
+, 'Cearï¿½', 7.1
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Rio Grande do Norte', 4.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Rio Grande do Norte', 4);
@@ -3915,27 +3915,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
 , 'Rio Grande do Norte', 7.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Paraíba', 1.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Paraíba', 2.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Paraíba', 2.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Paraíba', 2.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Paraíba', 3.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Paraíba', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Paraíba', 3.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Paraíba', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Paraíba', 4.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Paraíba', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Paraíba', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Paraíba', 5.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Paraíba', 5.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Paraíba', 4.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Paraíba', 6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Paraíba', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Paraíba', 6.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Paraíba', 6.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Paraíba', 6.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Paraï¿½ba', 1.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Paraï¿½ba', 2.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Paraï¿½ba', 2.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Paraï¿½ba', 2.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Paraï¿½ba', 3.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Paraï¿½ba', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Paraï¿½ba', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Paraï¿½ba', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Paraï¿½ba', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Paraï¿½ba', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Paraï¿½ba', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Paraï¿½ba', 5.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Paraï¿½ba', 5.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Paraï¿½ba', 4.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Paraï¿½ba', 6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Paraï¿½ba', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Paraï¿½ba', 6.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Paraï¿½ba', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Paraï¿½ba', 6.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
-, 'Paraíba', 6.9
+, 'Paraï¿½ba', 6.9
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Pernambuco', 3.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Pernambuco', 3.4);
@@ -4069,27 +4069,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
 , 'Minas Gerais', 8.2
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Espírito Santo', 4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Espírito Santo', 4.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Espírito Santo', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Espírito Santo', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Espírito Santo', 5.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Espírito Santo', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Espírito Santo', 4.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Espírito Santo', 4.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Espírito Santo', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Espírito Santo', 4.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Espírito Santo', 4.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Espírito Santo', 5.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Espírito Santo', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Espírito Santo', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Espírito Santo', 5.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Espírito Santo', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Espírito Santo', 5.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Espírito Santo', 6.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Espírito Santo', 6.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Espï¿½rito Santo', 4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Espï¿½rito Santo', 4.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Espï¿½rito Santo', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Espï¿½rito Santo', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Espï¿½rito Santo', 5.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Espï¿½rito Santo', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Espï¿½rito Santo', 4.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Espï¿½rito Santo', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Espï¿½rito Santo', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Espï¿½rito Santo', 4.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Espï¿½rito Santo', 4.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Espï¿½rito Santo', 5.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Espï¿½rito Santo', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Espï¿½rito Santo', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Espï¿½rito Santo', 5.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Espï¿½rito Santo', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Espï¿½rito Santo', 5.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Espï¿½rito Santo', 6.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Espï¿½rito Santo', 6.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
-, 'Espírito Santo', 6.6
+, 'Espï¿½rito Santo', 6.6
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Rio de Janeiro', 3.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Rio de Janeiro', 3.3);
@@ -4113,27 +4113,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
 , 'Rio de Janeiro', 4.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'São Paulo', 4.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'São Paulo', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'São Paulo', 4.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'São Paulo', 4.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'São Paulo', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'São Paulo', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'São Paulo', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'São Paulo', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'São Paulo', 5.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'São Paulo', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'São Paulo', 5.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'São Paulo', 5.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'São Paulo', 5.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'São Paulo', 5.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'São Paulo', 5.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'São Paulo', 5.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'São Paulo', 5.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'São Paulo', 5.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'São Paulo', 5.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Sï¿½o Paulo', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Sï¿½o Paulo', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Sï¿½o Paulo', 4.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Sï¿½o Paulo', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Sï¿½o Paulo', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Sï¿½o Paulo', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Sï¿½o Paulo', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Sï¿½o Paulo', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Sï¿½o Paulo', 5.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Sï¿½o Paulo', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Sï¿½o Paulo', 5.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Sï¿½o Paulo', 5.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Sï¿½o Paulo', 5.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Sï¿½o Paulo', 5.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Sï¿½o Paulo', 5.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Sï¿½o Paulo', 5.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Sï¿½o Paulo', 5.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Sï¿½o Paulo', 5.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Sï¿½o Paulo', 5.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
-, 'São Paulo', 5.5
+, 'Sï¿½o Paulo', 5.5
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Sul', 9.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Sul', 8.6);
@@ -4157,27 +4157,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
 , 'Sul', 11.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Paraná', 7.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Paraná', 6.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Paraná', 6.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Paraná', 7.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Paraná', 7.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Paraná', 6.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Paraná', 6.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Paraná', 6.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Paraná', 6.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Paraná', 6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Paraná', 5.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Paraná', 6.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Paraná', 6.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Paraná', 6.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Paraná', 7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Paraná', 7.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Paraná', 7.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Paraná', 8.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Paraná', 8.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Paranï¿½', 7.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Paranï¿½', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Paranï¿½', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Paranï¿½', 7.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Paranï¿½', 7.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Paranï¿½', 6.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Paranï¿½', 6.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Paranï¿½', 6.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Paranï¿½', 6.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Paranï¿½', 6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Paranï¿½', 5.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Paranï¿½', 6.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Paranï¿½', 6.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Paranï¿½', 6.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Paranï¿½', 7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Paranï¿½', 7.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Paranï¿½', 7.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Paranï¿½', 8.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Paranï¿½', 8.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
-, 'Paraná', 8.7
+, 'Paranï¿½', 8.7
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Santa Catarina', 9.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Santa Catarina', 8.4);
@@ -4289,27 +4289,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
 , 'Mato Grosso', 8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Goiás', 7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Goiás', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Goiás', 6.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Goiás', 6.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Goiás', 6.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Goiás', 5.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Goiás', 5.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Goiás', 6.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Goiás', 5.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Goiás', 5.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Goiás', 5.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Goiás', 6.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Goiás', 7.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Goiás', 7.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Goiás', 7.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Goiás', 7.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Goiás', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Goiás', 7.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Goiás', 8.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Goiï¿½s', 7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Goiï¿½s', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2003, 'Goiï¿½s', 6.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2004, 'Goiï¿½s', 6.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2005, 'Goiï¿½s', 6.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2006, 'Goiï¿½s', 5.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2007, 'Goiï¿½s', 5.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2008, 'Goiï¿½s', 6.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2009, 'Goiï¿½s', 5.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2010, 'Goiï¿½s', 5.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2011, 'Goiï¿½s', 5.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2012, 'Goiï¿½s', 6.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2013, 'Goiï¿½s', 7.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2014, 'Goiï¿½s', 7.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2015, 'Goiï¿½s', 7.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2016, 'Goiï¿½s', 7.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2017, 'Goiï¿½s', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2018, 'Goiï¿½s', 7.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2019, 'Goiï¿½s', 8.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2020
-, 'Goiás', 9
+, 'Goiï¿½s', 9
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2001, 'Distrito Federal', 4.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.4.2', 2002, 'Distrito Federal', 4.5);
@@ -4357,17 +4357,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
 , 'Norte', 16.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Rondônia', 36.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Rondônia', 40.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Rondônia', 32.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Rondônia', 32.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Rondônia', 29.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Rondônia', 28.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Rondônia', 28.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Rondônia', 22.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Rondônia', 22.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Rondï¿½nia', 36.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Rondï¿½nia', 40.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Rondï¿½nia', 32.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Rondï¿½nia', 32.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Rondï¿½nia', 29.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Rondï¿½nia', 28.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Rondï¿½nia', 28.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Rondï¿½nia', 22.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Rondï¿½nia', 22.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
-, 'Rondônia', 23.3
+, 'Rondï¿½nia', 23.3
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Acre', 20.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Acre', 20.6);
@@ -4405,29 +4405,29 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
 , 'Roraima', 20.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Pará', 17.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Pará', 19.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Pará', 19.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Pará', 19.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Pará', 18.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Pará', 18.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Pará', 17.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Pará', 16.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Pará', 15.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Parï¿½', 17.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Parï¿½', 19.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Parï¿½', 19.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Parï¿½', 19.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Parï¿½', 18.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Parï¿½', 18.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Parï¿½', 17.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Parï¿½', 16.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Parï¿½', 15.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
-, 'Pará', 17.8
+, 'Parï¿½', 17.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Amapá', 21.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Amapá', 17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Amapá', 15.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Amapá', 16.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Amapá', 11.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Amapá', 12.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Amapá', 11.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Amapá', 7.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Amapá', 9.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Amapï¿½', 21.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Amapï¿½', 17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Amapï¿½', 15.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Amapï¿½', 16.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Amapï¿½', 11.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Amapï¿½', 12.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Amapï¿½', 11.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Amapï¿½', 7.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Amapï¿½', 9.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
-, 'Amapá', 8.4
+, 'Amapï¿½', 8.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Tocantins', 35.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Tocantins', 34.4);
@@ -4453,41 +4453,41 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
 , 'Nordeste', 17.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Maranhão', 22.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Maranhão', 25.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Maranhão', 23.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Maranhão', 26.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Maranhão', 23.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Maranhão', 24.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Maranhão', 20.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Maranhão', 19.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Maranhão', 18.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Maranhï¿½o', 22.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Maranhï¿½o', 25.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Maranhï¿½o', 23.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Maranhï¿½o', 26.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Maranhï¿½o', 23.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Maranhï¿½o', 24.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Maranhï¿½o', 20.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Maranhï¿½o', 19.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Maranhï¿½o', 18.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
-, 'Maranhão', 20
+, 'Maranhï¿½o', 20
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Piauí', 31.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Piauí', 35.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Piauí', 33.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Piauí', 37.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Piauí', 34.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Piauí', 32.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Piauí', 30.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Piauí', 29);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Piauí', 26.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Piauï¿½', 31.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Piauï¿½', 35.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Piauï¿½', 33.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Piauï¿½', 37.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Piauï¿½', 34.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Piauï¿½', 32.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Piauï¿½', 30.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Piauï¿½', 29);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Piauï¿½', 26.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
-, 'Piauí', 27.4
+, 'Piauï¿½', 27.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Ceará', 23.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Ceará', 27.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Ceará', 26.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Ceará', 29.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Ceará', 25.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Ceará', 21.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Ceará', 17.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Ceará', 17.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Ceará', 15.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Cearï¿½', 23.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Cearï¿½', 27.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Cearï¿½', 26.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Cearï¿½', 29.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Cearï¿½', 25.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Cearï¿½', 21.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Cearï¿½', 17.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Cearï¿½', 17.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Cearï¿½', 15.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
-, 'Ceará', 14.4
+, 'Cearï¿½', 14.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Rio Grande do Norte', 18.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Rio Grande do Norte', 18.2);
@@ -4501,17 +4501,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
 , 'Rio Grande do Norte', 12.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Paraíba', 20.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Paraíba', 25);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Paraíba', 25.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Paraíba', 24.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Paraíba', 25.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Paraíba', 25.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Paraíba', 22.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Paraíba', 21.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Paraíba', 19.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Paraï¿½ba', 20.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Paraï¿½ba', 25);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Paraï¿½ba', 25.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Paraï¿½ba', 24.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Paraï¿½ba', 25.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Paraï¿½ba', 25.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Paraï¿½ba', 22.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Paraï¿½ba', 21.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Paraï¿½ba', 19.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
-, 'Paraíba', 19.5
+, 'Paraï¿½ba', 19.5
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Pernambuco', 22.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Pernambuco', 22.3);
@@ -4585,17 +4585,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
 , 'Minas Gerais', 13.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Espírito Santo', 31.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Espírito Santo', 31.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Espírito Santo', 28.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Espírito Santo', 26.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Espírito Santo', 22.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Espírito Santo', 21.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Espírito Santo', 23.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Espírito Santo', 19.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Espírito Santo', 19.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Espï¿½rito Santo', 31.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Espï¿½rito Santo', 31.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Espï¿½rito Santo', 28.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Espï¿½rito Santo', 26.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Espï¿½rito Santo', 22.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Espï¿½rito Santo', 21.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Espï¿½rito Santo', 23.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Espï¿½rito Santo', 19.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Espï¿½rito Santo', 19.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
-, 'Espírito Santo', 18.6
+, 'Espï¿½rito Santo', 18.6
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Rio de Janeiro', 16.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Rio de Janeiro', 18.4);
@@ -4609,17 +4609,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
 , 'Rio de Janeiro', 10.5
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'São Paulo', 17.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'São Paulo', 16.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'São Paulo', 15.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'São Paulo', 16.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'São Paulo', 13.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'São Paulo', 12.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'São Paulo', 11.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'São Paulo', 10.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'São Paulo', 11.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Sï¿½o Paulo', 17.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Sï¿½o Paulo', 16.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Sï¿½o Paulo', 15.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Sï¿½o Paulo', 16.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Sï¿½o Paulo', 13.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Sï¿½o Paulo', 12.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Sï¿½o Paulo', 11.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Sï¿½o Paulo', 10.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Sï¿½o Paulo', 11.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
-, 'São Paulo', 11.4
+, 'Sï¿½o Paulo', 11.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Sul', 26.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Sul', 27.1);
@@ -4633,17 +4633,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
 , 'Sul', 18
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Paraná', 31.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Paraná', 33.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Paraná', 28.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Paraná', 27.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Paraná', 24.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Paraná', 24.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Paraná', 22.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Paraná', 21.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Paraná', 21.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Paranï¿½', 31.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Paranï¿½', 33.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Paranï¿½', 28.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Paranï¿½', 27.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Paranï¿½', 24.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Paranï¿½', 24.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Paranï¿½', 22.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Paranï¿½', 21.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Paranï¿½', 21.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
-, 'Paraná', 21.8
+, 'Paranï¿½', 21.8
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Santa Catarina', 31.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Santa Catarina', 29.7);
@@ -4705,17 +4705,17 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
 , 'Mato Grosso', 31.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Goiás', 30.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Goiás', 32.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Goiás', 31.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Goiás', 32.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Goiás', 28.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Goiás', 26.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Goiás', 24.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Goiás', 22.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Goiás', 20.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Goiï¿½s', 30.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Goiï¿½s', 32.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2013, 'Goiï¿½s', 31.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2014, 'Goiï¿½s', 32.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2015, 'Goiï¿½s', 28.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2016, 'Goiï¿½s', 26.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2017, 'Goiï¿½s', 24.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2018, 'Goiï¿½s', 22.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2019, 'Goiï¿½s', 20.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2020
-, 'Goiás', 22.3
+, 'Goiï¿½s', 22.3
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2011, 'Distrito Federal', 20.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.6.1', 2012, 'Distrito Federal', 20.3);
@@ -4771,26 +4771,26 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
 , 'Norte', 43.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Rondônia', 59.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Rondônia', 51.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Rondônia', 50.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Rondônia', 48.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Rondônia', 48.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Rondônia', 46.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Rondônia', 40.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Rondônia', 36.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Rondônia', 41.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Rondônia', 40.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Rondônia', 38.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Rondônia', 40.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Rondônia', 38.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Rondônia', 38.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Rondônia', 38.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Rondônia', 37.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Rondônia', 35.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Rondônia', 34.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Rondï¿½nia', 59.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Rondï¿½nia', 51.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Rondï¿½nia', 50.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Rondï¿½nia', 48.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Rondï¿½nia', 48.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Rondï¿½nia', 46.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Rondï¿½nia', 40.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Rondï¿½nia', 36.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Rondï¿½nia', 41.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Rondï¿½nia', 40.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Rondï¿½nia', 38.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Rondï¿½nia', 40.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Rondï¿½nia', 38.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Rondï¿½nia', 38.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Rondï¿½nia', 38.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Rondï¿½nia', 37.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Rondï¿½nia', 35.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Rondï¿½nia', 34.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
-, 'Rondônia', 33.9
+, 'Rondï¿½nia', 33.9
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Acre', 68.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Acre', 64.5);
@@ -4855,47 +4855,47 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
 , 'Roraima', 58.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Pará', 52.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Pará', 55.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Pará', 54.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Pará', 56.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Pará', 54.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Pará', 55.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Pará', 55.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Pará', 54.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Pará', 53.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Pará', 49.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Pará', 47.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Pará', 48);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Pará', 46.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Pará', 46.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Pará', 48.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Pará', 47);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Pará', 43.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Pará', 42.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Parï¿½', 52.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Parï¿½', 55.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Parï¿½', 54.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Parï¿½', 56.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Parï¿½', 54.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Parï¿½', 55.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Parï¿½', 55.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Parï¿½', 54.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Parï¿½', 53.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Parï¿½', 49.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Parï¿½', 47.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Parï¿½', 48);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Parï¿½', 46.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Parï¿½', 46.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Parï¿½', 48.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Parï¿½', 47);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Parï¿½', 43.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Parï¿½', 42.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
-, 'Pará', 41.8
+, 'Parï¿½', 41.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Amapá', 66.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Amapá', 67.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Amapá', 60.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Amapá', 63.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Amapá', 59.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Amapá', 58.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Amapá', 58.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Amapá', 54.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Amapá', 54.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Amapá', 49.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Amapá', 49.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Amapá', 49.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Amapá', 48.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Amapá', 50.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Amapá', 52.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Amapá', 49.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Amapá', 46.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Amapá', 43.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Amapï¿½', 66.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Amapï¿½', 67.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Amapï¿½', 60.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Amapï¿½', 63.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Amapï¿½', 59.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Amapï¿½', 58.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Amapï¿½', 58.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Amapï¿½', 54.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Amapï¿½', 54.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Amapï¿½', 49.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Amapï¿½', 49.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Amapï¿½', 49.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Amapï¿½', 48.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Amapï¿½', 50.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Amapï¿½', 52.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Amapï¿½', 49.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Amapï¿½', 46.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Amapï¿½', 43.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
-, 'Amapá', 44.6
+, 'Amapï¿½', 44.6
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Tocantins', 61.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Tocantins', 62.2);
@@ -4939,68 +4939,68 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
 , 'Nordeste', 33.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Maranhão', 43.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Maranhão', 47.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Maranhão', 50.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Maranhão', 54.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Maranhão', 53.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Maranhão', 55);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Maranhão', 52.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Maranhão', 52);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Maranhão', 50.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Maranhão', 47.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Maranhão', 44.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Maranhão', 44.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Maranhão', 43.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Maranhão', 42.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Maranhão', 43.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Maranhão', 43.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Maranhão', 41.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Maranhão', 40.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Maranhï¿½o', 43.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Maranhï¿½o', 47.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Maranhï¿½o', 50.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Maranhï¿½o', 54.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Maranhï¿½o', 53.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Maranhï¿½o', 55);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Maranhï¿½o', 52.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Maranhï¿½o', 52);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Maranhï¿½o', 50.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Maranhï¿½o', 47.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Maranhï¿½o', 44.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Maranhï¿½o', 44.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Maranhï¿½o', 43.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Maranhï¿½o', 42.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Maranhï¿½o', 43.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Maranhï¿½o', 43.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Maranhï¿½o', 41.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Maranhï¿½o', 40.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
-, 'Maranhão', 41.3
+, 'Maranhï¿½o', 41.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Piauí', 47.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Piauí', 47.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Piauí', 46);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Piauí', 44.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Piauí', 44.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Piauí', 46.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Piauí', 44.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Piauí', 43.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Piauí', 40.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Piauí', 37.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Piauí', 36.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Piauí', 35.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Piauí', 34.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Piauí', 33.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Piauí', 35.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Piauí', 36.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Piauí', 34.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Piauí', 34.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Piauï¿½', 47.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Piauï¿½', 47.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Piauï¿½', 46);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Piauï¿½', 44.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Piauï¿½', 44.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Piauï¿½', 46.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Piauï¿½', 44.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Piauï¿½', 43.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Piauï¿½', 40.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Piauï¿½', 37.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Piauï¿½', 36.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Piauï¿½', 35.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Piauï¿½', 34.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Piauï¿½', 33.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Piauï¿½', 35.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Piauï¿½', 36.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Piauï¿½', 34.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Piauï¿½', 34.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
-, 'Piauí', 34
+, 'Piauï¿½', 34
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Ceará', 39.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Ceará', 40.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Ceará', 38.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Ceará', 37.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Ceará', 37.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Ceará', 37.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Ceará', 35.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Ceará', 34.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Ceará', 33.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Ceará', 32.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Ceará', 31.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Ceará', 31.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Ceará', 32.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Ceará', 32.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Ceará', 33.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Ceará', 33.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Ceará', 31.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Ceará', 30.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Cearï¿½', 39.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Cearï¿½', 40.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Cearï¿½', 38.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Cearï¿½', 37.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Cearï¿½', 37.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Cearï¿½', 37.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Cearï¿½', 35.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Cearï¿½', 34.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Cearï¿½', 33.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Cearï¿½', 32.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Cearï¿½', 31.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Cearï¿½', 31.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Cearï¿½', 32.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Cearï¿½', 32.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Cearï¿½', 33.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Cearï¿½', 33.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Cearï¿½', 31.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Cearï¿½', 30.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
-, 'Ceará', 30
+, 'Cearï¿½', 30
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Rio Grande do Norte', 45.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Rio Grande do Norte', 43.8);
@@ -5023,26 +5023,26 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
 , 'Rio Grande do Norte', 29
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Paraíba', 37.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Paraíba', 40.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Paraíba', 39.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Paraíba', 39.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Paraíba', 38.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Paraíba', 40.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Paraíba', 38);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Paraíba', 36.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Paraíba', 36.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Paraíba', 35.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Paraíba', 33.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Paraíba', 34.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Paraíba', 33.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Paraíba', 33.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Paraíba', 33.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Paraíba', 34.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Paraíba', 32.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Paraíba', 31.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Paraï¿½ba', 37.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Paraï¿½ba', 40.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Paraï¿½ba', 39.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Paraï¿½ba', 39.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Paraï¿½ba', 38.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Paraï¿½ba', 40.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Paraï¿½ba', 38);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Paraï¿½ba', 36.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Paraï¿½ba', 36.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Paraï¿½ba', 35.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Paraï¿½ba', 33.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Paraï¿½ba', 34.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Paraï¿½ba', 33.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Paraï¿½ba', 33.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Paraï¿½ba', 33.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Paraï¿½ba', 34.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Paraï¿½ba', 32.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Paraï¿½ba', 31.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
-, 'Paraíba', 31.8
+, 'Paraï¿½ba', 31.8
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Pernambuco', 46.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Pernambuco', 46.1);
@@ -5170,26 +5170,26 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
 , 'Minas Gerais', 23.2
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Espírito Santo', 40.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Espírito Santo', 40.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Espírito Santo', 37.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Espírito Santo', 35.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Espírito Santo', 34.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Espírito Santo', 34.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Espírito Santo', 34);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Espírito Santo', 33.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Espírito Santo', 32.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Espírito Santo', 30.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Espírito Santo', 30);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Espírito Santo', 30.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Espírito Santo', 31.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Espírito Santo', 32.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Espírito Santo', 33.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Espírito Santo', 32.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Espírito Santo', 29.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Espírito Santo', 28.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Espï¿½rito Santo', 40.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Espï¿½rito Santo', 40.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Espï¿½rito Santo', 37.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Espï¿½rito Santo', 35.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Espï¿½rito Santo', 34.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Espï¿½rito Santo', 34.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Espï¿½rito Santo', 34);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Espï¿½rito Santo', 33.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Espï¿½rito Santo', 32.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Espï¿½rito Santo', 30.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Espï¿½rito Santo', 30);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Espï¿½rito Santo', 30.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Espï¿½rito Santo', 31.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Espï¿½rito Santo', 32.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Espï¿½rito Santo', 33.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Espï¿½rito Santo', 32.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Espï¿½rito Santo', 29.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Espï¿½rito Santo', 28.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
-, 'Espírito Santo', 27.4
+, 'Espï¿½rito Santo', 27.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Rio de Janeiro', 42.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Rio de Janeiro', 39.6);
@@ -5212,26 +5212,26 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
 , 'Rio de Janeiro', 28.8
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'São Paulo', 37.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'São Paulo', 34.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'São Paulo', 32.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'São Paulo', 31);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'São Paulo', 30.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'São Paulo', 31.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'São Paulo', 30.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'São Paulo', 29.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'São Paulo', 28.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'São Paulo', 27.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'São Paulo', 26.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'São Paulo', 27.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'São Paulo', 27.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'São Paulo', 28.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'São Paulo', 28.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'São Paulo', 27.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'São Paulo', 25.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'São Paulo', 23.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Sï¿½o Paulo', 37.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Sï¿½o Paulo', 34.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Sï¿½o Paulo', 32.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Sï¿½o Paulo', 31);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Sï¿½o Paulo', 30.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Sï¿½o Paulo', 31.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Sï¿½o Paulo', 30.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Sï¿½o Paulo', 29.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Sï¿½o Paulo', 28.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Sï¿½o Paulo', 27.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Sï¿½o Paulo', 26.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Sï¿½o Paulo', 27.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Sï¿½o Paulo', 27.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Sï¿½o Paulo', 28.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Sï¿½o Paulo', 28.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Sï¿½o Paulo', 27.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Sï¿½o Paulo', 25.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Sï¿½o Paulo', 23.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
-, 'São Paulo', 22.2
+, 'Sï¿½o Paulo', 22.2
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Sul', 39.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Sul', 36.4);
@@ -5254,26 +5254,26 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
 , 'Sul', 24.2
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Paraná', 42.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Paraná', 39.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Paraná', 37.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Paraná', 34.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Paraná', 35.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Paraná', 35.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Paraná', 34);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Paraná', 32);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Paraná', 32);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Paraná', 32.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Paraná', 31.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Paraná', 31.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Paraná', 31.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Paraná', 32.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Paraná', 33.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Paraná', 32);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Paraná', 28.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Paraná', 27.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Paranï¿½', 42.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Paranï¿½', 39.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Paranï¿½', 37.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Paranï¿½', 34.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Paranï¿½', 35.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Paranï¿½', 35.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Paranï¿½', 34);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Paranï¿½', 32);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Paranï¿½', 32);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Paranï¿½', 32.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Paranï¿½', 31.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Paranï¿½', 31.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Paranï¿½', 31.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Paranï¿½', 32.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Paranï¿½', 33.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Paranï¿½', 32);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Paranï¿½', 28.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Paranï¿½', 27.5);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
-, 'Paraná', 26
+, 'Paranï¿½', 26
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Santa Catarina', 36.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Santa Catarina', 33.6);
@@ -5380,26 +5380,26 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
 , 'Mato Grosso', 36
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Goiás', 48);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Goiás', 45.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Goiás', 43.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Goiás', 40.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Goiás', 40);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Goiás', 39.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Goiás', 36.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Goiás', 34.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Goiás', 34);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Goiás', 32.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Goiás', 31.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Goiás', 32);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Goiás', 33.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Goiás', 34.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Goiás', 35.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Goiás', 34.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Goiás', 31.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Goiás', 29.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Goiï¿½s', 48);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Goiï¿½s', 45.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2002, 'Goiï¿½s', 43.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2003, 'Goiï¿½s', 40.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2004, 'Goiï¿½s', 40);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2005, 'Goiï¿½s', 39.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2006, 'Goiï¿½s', 36.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2007, 'Goiï¿½s', 34.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2008, 'Goiï¿½s', 34);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2009, 'Goiï¿½s', 32.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2010, 'Goiï¿½s', 31.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2011, 'Goiï¿½s', 32);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2012, 'Goiï¿½s', 33.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2013, 'Goiï¿½s', 34.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2014, 'Goiï¿½s', 35.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2015, 'Goiï¿½s', 34.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2016, 'Goiï¿½s', 31.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2017, 'Goiï¿½s', 29.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2018
-, 'Goiás', 28.3
+, 'Goiï¿½s', 28.3
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2000, 'Distrito Federal', 43.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.7.2', 2001, 'Distrito Federal', 41.1);
@@ -5466,27 +5466,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
 , 'Norte', 4.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Rondônia', 6.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Rondônia', 6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Rondônia', 6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Rondônia', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Rondônia', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Rondônia', 4.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Rondônia', 5.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Rondônia', 4.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Rondônia', 4.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Rondônia', 4.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Rondônia', 4.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Rondônia', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Rondônia', 4.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Rondônia', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Rondônia', 2.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Rondônia', 3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Rondônia', 3.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Rondônia', 2.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Rondônia', 2.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Rondï¿½nia', 6.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Rondï¿½nia', 6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Rondï¿½nia', 6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Rondï¿½nia', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Rondï¿½nia', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Rondï¿½nia', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Rondï¿½nia', 5.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Rondï¿½nia', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Rondï¿½nia', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Rondï¿½nia', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Rondï¿½nia', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Rondï¿½nia', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Rondï¿½nia', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Rondï¿½nia', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Rondï¿½nia', 2.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Rondï¿½nia', 3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Rondï¿½nia', 3.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Rondï¿½nia', 2.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Rondï¿½nia', 2.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
-, 'Rondônia', 2.1
+, 'Rondï¿½nia', 2.1
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Acre', 7.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Acre', 9.9);
@@ -5554,49 +5554,49 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
 , 'Roraima', 5.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Pará', 6.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Pará', 5.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Pará', 5.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Pará', 6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Pará', 6.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Pará', 6.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Pará', 6.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Pará', 5.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Pará', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Pará', 4.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Pará', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Pará', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Pará', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Pará', 5.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Pará', 5.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Pará', 6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Pará', 5.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Pará', 5.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Pará', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Parï¿½', 6.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Parï¿½', 5.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Parï¿½', 5.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Parï¿½', 6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Parï¿½', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Parï¿½', 6.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Parï¿½', 6.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Parï¿½', 5.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Parï¿½', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Parï¿½', 4.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Parï¿½', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Parï¿½', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Parï¿½', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Parï¿½', 5.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Parï¿½', 5.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Parï¿½', 6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Parï¿½', 5.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Parï¿½', 5.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Parï¿½', 4.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
-, 'Pará', 4.7
+, 'Parï¿½', 4.7
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Amapá', 7.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Amapá', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Amapá', 6.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Amapá', 4.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Amapá', 3.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Amapá', 1.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Amapá', 2.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Amapá', 2.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Amapá', 3.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Amapá', 2.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Amapá', 3.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Amapá', 3.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Amapá', 2.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Amapá', 4.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Amapá', 3.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Amapá', 4.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Amapá', 3.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Amapá', 3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Amapá', 2.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Amapï¿½', 7.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Amapï¿½', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Amapï¿½', 6.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Amapï¿½', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Amapï¿½', 3.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Amapï¿½', 1.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Amapï¿½', 2.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Amapï¿½', 2.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Amapï¿½', 3.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Amapï¿½', 2.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Amapï¿½', 3.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Amapï¿½', 3.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Amapï¿½', 2.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Amapï¿½', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Amapï¿½', 3.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Amapï¿½', 4.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Amapï¿½', 3.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Amapï¿½', 3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Amapï¿½', 2.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
-, 'Amapá', 0.8
+, 'Amapï¿½', 0.8
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Tocantins', 10.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Tocantins', 7.2);
@@ -5642,71 +5642,71 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
 , 'Nordeste', 5.6
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Maranhão', 5.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Maranhão', 6.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Maranhão', 6.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Maranhão', 5.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Maranhão', 9.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Maranhão', 8.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Maranhão', 6.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Maranhão', 7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Maranhão', 5.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Maranhão', 4.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Maranhão', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Maranhão', 3.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Maranhão', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Maranhão', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Maranhão', 4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Maranhão', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Maranhão', 4.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Maranhão', 3.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Maranhão', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Maranhï¿½o', 5.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Maranhï¿½o', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Maranhï¿½o', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Maranhï¿½o', 5.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Maranhï¿½o', 9.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Maranhï¿½o', 8.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Maranhï¿½o', 6.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Maranhï¿½o', 7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Maranhï¿½o', 5.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Maranhï¿½o', 4.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Maranhï¿½o', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Maranhï¿½o', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Maranhï¿½o', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Maranhï¿½o', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Maranhï¿½o', 4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Maranhï¿½o', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Maranhï¿½o', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Maranhï¿½o', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Maranhï¿½o', 4.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
-, 'Maranhão', 4.3
+, 'Maranhï¿½o', 4.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Piauí', 8.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Piauí', 8.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Piauí', 8.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Piauí', 6.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Piauí', 7.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Piauí', 8.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Piauí', 7.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Piauí', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Piauí', 7.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Piauí', 6.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Piauí', 5.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Piauí', 5.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Piauí', 6.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Piauí', 6.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Piauí', 5.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Piauí', 5.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Piauí', 6.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Piauí', 6.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Piauí', 6.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Piauï¿½', 8.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Piauï¿½', 8.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Piauï¿½', 8.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Piauï¿½', 6.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Piauï¿½', 7.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Piauï¿½', 8.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Piauï¿½', 7.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Piauï¿½', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Piauï¿½', 7.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Piauï¿½', 6.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Piauï¿½', 5.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Piauï¿½', 5.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Piauï¿½', 6.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Piauï¿½', 6.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Piauï¿½', 5.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Piauï¿½', 5.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Piauï¿½', 6.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Piauï¿½', 6.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Piauï¿½', 6.4);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
-, 'Piauí', 5.9
+, 'Piauï¿½', 5.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Ceará', 11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Ceará', 11.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Ceará', 9.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Ceará', 7.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Ceará', 7.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Ceará', 9.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Ceará', 7.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Ceará', 7.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Ceará', 6.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Ceará', 5.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Ceará', 6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Ceará', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Ceará', 6.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Ceará', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Ceará', 5.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Ceará', 5.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Ceará', 7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Ceará', 5.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Ceará', 5.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Cearï¿½', 11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Cearï¿½', 11.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Cearï¿½', 9.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Cearï¿½', 7.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Cearï¿½', 7.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Cearï¿½', 9.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Cearï¿½', 7.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Cearï¿½', 7.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Cearï¿½', 6.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Cearï¿½', 5.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Cearï¿½', 6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Cearï¿½', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Cearï¿½', 6.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Cearï¿½', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Cearï¿½', 5.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Cearï¿½', 5.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Cearï¿½', 7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Cearï¿½', 5.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Cearï¿½', 5.7);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
-, 'Ceará', 4.9
+, 'Cearï¿½', 4.9
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Rio Grande do Norte', 7.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Rio Grande do Norte', 9.9);
@@ -5730,27 +5730,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
 , 'Rio Grande do Norte', 6.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Paraíba', 6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Paraíba', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Paraíba', 9.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Paraíba', 10.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Paraíba', 10.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Paraíba', 10.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Paraíba', 10.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Paraíba', 11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Paraíba', 9.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Paraíba', 9.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Paraíba', 9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Paraíba', 8.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Paraíba', 9.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Paraíba', 7.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Paraíba', 8.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Paraíba', 8.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Paraíba', 7.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Paraíba', 7.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Paraíba', 6.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Paraï¿½ba', 6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Paraï¿½ba', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Paraï¿½ba', 9.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Paraï¿½ba', 10.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Paraï¿½ba', 10.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Paraï¿½ba', 10.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Paraï¿½ba', 10.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Paraï¿½ba', 11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Paraï¿½ba', 9.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Paraï¿½ba', 9.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Paraï¿½ba', 9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Paraï¿½ba', 8.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Paraï¿½ba', 9.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Paraï¿½ba', 7.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Paraï¿½ba', 8.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Paraï¿½ba', 8.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Paraï¿½ba', 7.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Paraï¿½ba', 7.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Paraï¿½ba', 6.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
-, 'Paraíba', 6.5
+, 'Paraï¿½ba', 6.5
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Pernambuco', 16);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Pernambuco', 16.6);
@@ -5884,27 +5884,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
 , 'Minas Gerais', 4.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Espírito Santo', 6.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Espírito Santo', 6.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Espírito Santo', 6.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Espírito Santo', 6.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Espírito Santo', 5.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Espírito Santo', 5.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Espírito Santo', 4.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Espírito Santo', 4.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Espírito Santo', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Espírito Santo', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Espírito Santo', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Espírito Santo', 4.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Espírito Santo', 5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Espírito Santo', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Espírito Santo', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Espírito Santo', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Espírito Santo', 4.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Espírito Santo', 4.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Espírito Santo', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Espï¿½rito Santo', 6.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Espï¿½rito Santo', 6.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Espï¿½rito Santo', 6.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Espï¿½rito Santo', 6.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Espï¿½rito Santo', 5.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Espï¿½rito Santo', 5.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Espï¿½rito Santo', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Espï¿½rito Santo', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Espï¿½rito Santo', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Espï¿½rito Santo', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Espï¿½rito Santo', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Espï¿½rito Santo', 4.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Espï¿½rito Santo', 5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Espï¿½rito Santo', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Espï¿½rito Santo', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Espï¿½rito Santo', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Espï¿½rito Santo', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Espï¿½rito Santo', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Espï¿½rito Santo', 4.2);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
-, 'Espírito Santo', 3.5
+, 'Espï¿½rito Santo', 3.5
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Rio de Janeiro', 6.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Rio de Janeiro', 6.6);
@@ -5928,27 +5928,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
 , 'Rio de Janeiro', 2.9
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'São Paulo', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'São Paulo', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'São Paulo', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'São Paulo', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'São Paulo', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'São Paulo', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'São Paulo', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'São Paulo', 4.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'São Paulo', 4.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'São Paulo', 4.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'São Paulo', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'São Paulo', 4.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'São Paulo', 4.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'São Paulo', 4.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'São Paulo', 4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'São Paulo', 4.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'São Paulo', 3.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'São Paulo', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'São Paulo', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Sï¿½o Paulo', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Sï¿½o Paulo', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Sï¿½o Paulo', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Sï¿½o Paulo', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Sï¿½o Paulo', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Sï¿½o Paulo', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Sï¿½o Paulo', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Sï¿½o Paulo', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Sï¿½o Paulo', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Sï¿½o Paulo', 4.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Sï¿½o Paulo', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Sï¿½o Paulo', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Sï¿½o Paulo', 4.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Sï¿½o Paulo', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Sï¿½o Paulo', 4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Sï¿½o Paulo', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Sï¿½o Paulo', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Sï¿½o Paulo', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Sï¿½o Paulo', 4.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
-, 'São Paulo', 3.2
+, 'Sï¿½o Paulo', 3.2
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Sul', 5.6);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Sul', 4.7);
@@ -5972,27 +5972,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
 , 'Sul', 3.4
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Paraná', 6.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Paraná', 5.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Paraná', 4.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Paraná', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Paraná', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Paraná', 4.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Paraná', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Paraná', 4.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Paraná', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Paraná', 4.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Paraná', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Paraná', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Paraná', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Paraná', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Paraná', 3.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Paraná', 4.6);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Paraná', 3.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Paraná', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Paraná', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Paranï¿½', 6.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Paranï¿½', 5.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Paranï¿½', 4.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Paranï¿½', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Paranï¿½', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Paranï¿½', 4.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Paranï¿½', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Paranï¿½', 4.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Paranï¿½', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Paranï¿½', 4.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Paranï¿½', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Paranï¿½', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Paranï¿½', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Paranï¿½', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Paranï¿½', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Paranï¿½', 4.6);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Paranï¿½', 3.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Paranï¿½', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Paranï¿½', 3.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
-, 'Paraná', 3.4
+, 'Paranï¿½', 3.4
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Santa Catarina', 4.3);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Santa Catarina', 3.4);
@@ -6104,27 +6104,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
 , 'Mato Grosso', 4.3
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Goiás', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Goiás', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Goiás', 4.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Goiás', 5.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Goiás', 4.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Goiás', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Goiás', 3.7);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Goiás', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Goiás', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Goiás', 3.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Goiás', 3.5);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Goiás', 3.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Goiás', 3.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Goiás', 3.9);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Goiás', 3.8);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Goiás', 3.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Goiás', 3.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Goiás', 3.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Goiás', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Goiï¿½s', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Goiï¿½s', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2003, 'Goiï¿½s', 4.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2004, 'Goiï¿½s', 5.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2005, 'Goiï¿½s', 4.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2006, 'Goiï¿½s', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2007, 'Goiï¿½s', 3.7);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2008, 'Goiï¿½s', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2009, 'Goiï¿½s', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2010, 'Goiï¿½s', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2011, 'Goiï¿½s', 3.5);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2012, 'Goiï¿½s', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2013, 'Goiï¿½s', 3.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2014, 'Goiï¿½s', 3.9);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2015, 'Goiï¿½s', 3.8);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2016, 'Goiï¿½s', 3.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2017, 'Goiï¿½s', 3.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2018, 'Goiï¿½s', 3.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2019, 'Goiï¿½s', 3.9);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2020
-, 'Goiás', 3.2
+, 'Goiï¿½s', 3.2
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2001, 'Distrito Federal', 2.8);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.2', 2002, 'Distrito Federal', 2.9);
@@ -6192,27 +6192,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
 , 'Norte', 0.09
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Rondônia', 0.56);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Rondônia', 0.48);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Rondônia', 0.07);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Rondônia', 0.13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Rondônia', 0.33);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Rondônia', 0.26);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Rondônia', 0.26);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Rondônia', 0.26);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Rondônia', 0.13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Rondônia', 0.06);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Rondônia', 0.19);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Rondônia', 0.18);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Rondônia', 0.24);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Rondônia', 0.18);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Rondônia', 0.24);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Rondônia', 0.17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Rondônia', 0.12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Rondônia', 0.23);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Rondônia', 0.06);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Rondï¿½nia', 0.56);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Rondï¿½nia', 0.48);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Rondï¿½nia', 0.07);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Rondï¿½nia', 0.13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Rondï¿½nia', 0.33);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Rondï¿½nia', 0.26);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Rondï¿½nia', 0.26);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Rondï¿½nia', 0.26);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Rondï¿½nia', 0.13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Rondï¿½nia', 0.06);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Rondï¿½nia', 0.19);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Rondï¿½nia', 0.18);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Rondï¿½nia', 0.24);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Rondï¿½nia', 0.18);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Rondï¿½nia', 0.24);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Rondï¿½nia', 0.17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Rondï¿½nia', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Rondï¿½nia', 0.23);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Rondï¿½nia', 0.06);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
-, 'Rondônia', 0.06
+, 'Rondï¿½nia', 0.06
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Acre', 0.17);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Acre', 0.16);
@@ -6280,49 +6280,49 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
 , 'Roraima', 0
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Pará', 0.21);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Pará', 0.06);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Pará', 0.28);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Pará', 0.3);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Pará', 0.13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Pará', 0.11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Pará', 0.07);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Pará', 0.19);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Pará', 0.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Pará', 0.19);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Pará', 0.11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Pará', 0.13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Pará', 0.12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Pará', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Pará', 0.16);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Pará', 0.08);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Pará', 0.04);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Pará', 0.05);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Pará', 0.07);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Parï¿½', 0.21);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Parï¿½', 0.06);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Parï¿½', 0.28);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Parï¿½', 0.3);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Parï¿½', 0.13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Parï¿½', 0.11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Parï¿½', 0.07);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Parï¿½', 0.19);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Parï¿½', 0.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Parï¿½', 0.19);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Parï¿½', 0.11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Parï¿½', 0.13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Parï¿½', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Parï¿½', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Parï¿½', 0.16);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Parï¿½', 0.08);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Parï¿½', 0.04);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Parï¿½', 0.05);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Parï¿½', 0.07);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
-, 'Pará', 0.02
+, 'Parï¿½', 0.02
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Amapá', 0.19);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Amapá', 0.56);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Amapá', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Amapá', 0.17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Amapá', 0.17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Amapá', 0.16);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Amapá', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Amapá', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Amapá', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Amapá', 0.14);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Amapá', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Amapá', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Amapá', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Amapá', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Amapá', 0.13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Amapá', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Amapá', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Amapá', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Amapá', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Amapï¿½', 0.19);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Amapï¿½', 0.56);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Amapï¿½', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Amapï¿½', 0.17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Amapï¿½', 0.17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Amapï¿½', 0.16);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Amapï¿½', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Amapï¿½', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Amapï¿½', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Amapï¿½', 0.14);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Amapï¿½', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Amapï¿½', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Amapï¿½', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Amapï¿½', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Amapï¿½', 0.13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Amapï¿½', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Amapï¿½', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Amapï¿½', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Amapï¿½', 0.12);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
-, 'Amapá', 0.23
+, 'Amapï¿½', 0.23
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Tocantins', 0.25);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Tocantins', 0.49);
@@ -6368,71 +6368,71 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
 , 'Nordeste', 0.12
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Maranhão', 0.22);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Maranhão', 0.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Maranhão', 0.16);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Maranhão', 0.24);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Maranhão', 0.43);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Maranhão', 0.27);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Maranhão', 0.15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Maranhão', 0.17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Maranhão', 0.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Maranhão', 0.28);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Maranhão', 0.18);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Maranhão', 0.24);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Maranhão', 0.18);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Maranhão', 0.19);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Maranhão', 0.14);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Maranhão', 0.17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Maranhão', 0.17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Maranhão', 0.2);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Maranhão', 0.14);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Maranhï¿½o', 0.22);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Maranhï¿½o', 0.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Maranhï¿½o', 0.16);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Maranhï¿½o', 0.24);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Maranhï¿½o', 0.43);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Maranhï¿½o', 0.27);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Maranhï¿½o', 0.15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Maranhï¿½o', 0.17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Maranhï¿½o', 0.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Maranhï¿½o', 0.28);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Maranhï¿½o', 0.18);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Maranhï¿½o', 0.24);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Maranhï¿½o', 0.18);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Maranhï¿½o', 0.19);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Maranhï¿½o', 0.14);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Maranhï¿½o', 0.17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Maranhï¿½o', 0.17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Maranhï¿½o', 0.2);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Maranhï¿½o', 0.14);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
-, 'Maranhão', 0.1
+, 'Maranhï¿½o', 0.1
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Piauí', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Piauí', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Piauí', 0.13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Piauí', 0.26);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Piauí', 0.26);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Piauí', 0.23);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Piauí', 0.13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Piauí', 0.16);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Piauí', 0.25);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Piauí', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Piauí', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Piauí', 0.12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Piauí', 0.19);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Piauí', 0.31);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Piauí', 0.19);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Piauí', 0.22);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Piauí', 0.28);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Piauí', 0.15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Piauí', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Piauï¿½', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Piauï¿½', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Piauï¿½', 0.13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Piauï¿½', 0.26);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Piauï¿½', 0.26);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Piauï¿½', 0.23);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Piauï¿½', 0.13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Piauï¿½', 0.16);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Piauï¿½', 0.25);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Piauï¿½', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Piauï¿½', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Piauï¿½', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Piauï¿½', 0.19);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Piauï¿½', 0.31);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Piauï¿½', 0.19);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Piauï¿½', 0.22);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Piauï¿½', 0.28);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Piauï¿½', 0.15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Piauï¿½', 0.12);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
-, 'Piauí', 0.24
+, 'Piauï¿½', 0.24
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Ceará', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Ceará', 0.14);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Ceará', 0.23);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Ceará', 0.07);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Ceará', 0.05);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Ceará', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Ceará', 0.17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Ceará', 0.13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Ceará', 0.07);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Ceará', 0.07);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Ceará', 0.15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Ceará', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Ceará', 0.11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Ceará', 0.12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Ceará', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Ceará', 0.11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Ceará', 0.12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Ceará', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Ceará', 0.08);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Cearï¿½', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Cearï¿½', 0.14);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Cearï¿½', 0.23);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Cearï¿½', 0.07);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Cearï¿½', 0.05);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Cearï¿½', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Cearï¿½', 0.17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Cearï¿½', 0.13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Cearï¿½', 0.07);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Cearï¿½', 0.07);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Cearï¿½', 0.15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Cearï¿½', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Cearï¿½', 0.11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Cearï¿½', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Cearï¿½', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Cearï¿½', 0.11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Cearï¿½', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Cearï¿½', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Cearï¿½', 0.08);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
-, 'Ceará', 0.07
+, 'Cearï¿½', 0.07
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Rio Grande do Norte', 0.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Rio Grande do Norte', 0.03);
@@ -6456,27 +6456,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
 , 'Rio Grande do Norte', 0
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Paraíba', 0.06);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Paraíba', 0.08);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Paraíba', 0.11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Paraíba', 0.08);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Paraíba', 0.11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Paraíba', 0.08);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Paraíba', 0.11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Paraíba', 0.18);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Paraíba', 0.03);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Paraíba', 0.08);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Paraíba', 0);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Paraíba', 0.15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Paraíba', 0.05);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Paraíba', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Paraíba', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Paraíba', 0.05);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Paraíba', 0.05);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Paraíba', 0.13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Paraíba', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Paraï¿½ba', 0.06);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Paraï¿½ba', 0.08);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Paraï¿½ba', 0.11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Paraï¿½ba', 0.08);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Paraï¿½ba', 0.11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Paraï¿½ba', 0.08);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Paraï¿½ba', 0.11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Paraï¿½ba', 0.18);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Paraï¿½ba', 0.03);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Paraï¿½ba', 0.08);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Paraï¿½ba', 0);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Paraï¿½ba', 0.15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Paraï¿½ba', 0.05);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Paraï¿½ba', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Paraï¿½ba', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Paraï¿½ba', 0.05);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Paraï¿½ba', 0.05);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Paraï¿½ba', 0.13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Paraï¿½ba', 0.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
-, 'Paraíba', 0.07
+, 'Paraï¿½ba', 0.07
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Pernambuco', 0.09);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Pernambuco', 0.1);
@@ -6610,27 +6610,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
 , 'Minas Gerais', 0.31
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Espírito Santo', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Espírito Santo', 0.18);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Espírito Santo', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Espírito Santo', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Espírito Santo', 0.03);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Espírito Santo', 0.15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Espírito Santo', 0.26);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Espírito Santo', 0.06);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Espírito Santo', 0.25);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Espírito Santo', 0.36);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Espírito Santo', 0.27);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Espírito Santo', 0.11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Espírito Santo', 0.16);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Espírito Santo', 0.21);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Espírito Santo', 0.42);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Espírito Santo', 0.31);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Espírito Santo', 0.28);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Espírito Santo', 0.4);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Espírito Santo', 0.22);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Espï¿½rito Santo', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Espï¿½rito Santo', 0.18);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Espï¿½rito Santo', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Espï¿½rito Santo', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Espï¿½rito Santo', 0.03);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Espï¿½rito Santo', 0.15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Espï¿½rito Santo', 0.26);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Espï¿½rito Santo', 0.06);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Espï¿½rito Santo', 0.25);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Espï¿½rito Santo', 0.36);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Espï¿½rito Santo', 0.27);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Espï¿½rito Santo', 0.11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Espï¿½rito Santo', 0.16);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Espï¿½rito Santo', 0.21);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Espï¿½rito Santo', 0.42);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Espï¿½rito Santo', 0.31);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Espï¿½rito Santo', 0.28);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Espï¿½rito Santo', 0.4);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Espï¿½rito Santo', 0.22);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
-, 'Espírito Santo', 0.2
+, 'Espï¿½rito Santo', 0.2
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Rio de Janeiro', 0.19);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Rio de Janeiro', 0.07);
@@ -6654,27 +6654,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
 , 'Rio de Janeiro', 1.17
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'São Paulo', 0.05);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'São Paulo', 0.02);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'São Paulo', 0.05);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'São Paulo', 0.02);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'São Paulo', 0.02);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'São Paulo', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'São Paulo', 0.06);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'São Paulo', 0.08);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'São Paulo', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'São Paulo', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'São Paulo', 0.07);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'São Paulo', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'São Paulo', 0.18);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'São Paulo', 0.39);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'São Paulo', 0.35);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'São Paulo', 0.12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'São Paulo', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'São Paulo', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'São Paulo', 0.13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Sï¿½o Paulo', 0.05);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Sï¿½o Paulo', 0.02);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Sï¿½o Paulo', 0.05);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Sï¿½o Paulo', 0.02);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Sï¿½o Paulo', 0.02);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Sï¿½o Paulo', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Sï¿½o Paulo', 0.06);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Sï¿½o Paulo', 0.08);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Sï¿½o Paulo', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Sï¿½o Paulo', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Sï¿½o Paulo', 0.07);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Sï¿½o Paulo', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Sï¿½o Paulo', 0.18);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Sï¿½o Paulo', 0.39);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Sï¿½o Paulo', 0.35);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Sï¿½o Paulo', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Sï¿½o Paulo', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Sï¿½o Paulo', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Sï¿½o Paulo', 0.13);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
-, 'São Paulo', 0.14
+, 'Sï¿½o Paulo', 0.14
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Sul', 0.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Sul', 0.11);
@@ -6698,27 +6698,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
 , 'Sul', 0.08
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Paraná', 0.08);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Paraná', 0.14);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Paraná', 0.12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Paraná', 0.18);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Paraná', 0.06);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Paraná', 0.12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Paraná', 0.14);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Paraná', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Paraná', 0.09);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Paraná', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Paraná', 0.08);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Paraná', 0.11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Paraná', 0.06);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Paraná', 0.08);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Paraná', 0.05);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Paraná', 0.05);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Paraná', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Paraná', 0.19);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Paraná', 0.15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Paranï¿½', 0.08);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Paranï¿½', 0.14);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Paranï¿½', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Paranï¿½', 0.18);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Paranï¿½', 0.06);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Paranï¿½', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Paranï¿½', 0.14);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Paranï¿½', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Paranï¿½', 0.09);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Paranï¿½', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Paranï¿½', 0.08);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Paranï¿½', 0.11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Paranï¿½', 0.06);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Paranï¿½', 0.08);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Paranï¿½', 0.05);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Paranï¿½', 0.05);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Paranï¿½', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Paranï¿½', 0.19);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Paranï¿½', 0.15);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
-, 'Paraná', 0.07
+, 'Paranï¿½', 0.07
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Santa Catarina', 0.07);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Santa Catarina', 0.09);
@@ -6830,27 +6830,27 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
 , 'Mato Grosso', 0.14
 );
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Goiás', 0.11);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Goiás', 0.17);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Goiás', 0.22);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Goiás', 0.22);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Goiás', 0.12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Goiás', 0.1);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Goiás', 0.05);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Goiás', 0.19);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Goiás', 0.15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Goiás', 0.13);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Goiás', 0.19);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Goiás', 0.25);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Goiás', 0.12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Goiás', 0.25);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Goiás', 0.15);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Goiás', 0.21);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Goiás', 0.12);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Goiás', 0.27);
-INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Goiás', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Goiï¿½s', 0.11);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Goiï¿½s', 0.17);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2003, 'Goiï¿½s', 0.22);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2004, 'Goiï¿½s', 0.22);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2005, 'Goiï¿½s', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2006, 'Goiï¿½s', 0.1);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2007, 'Goiï¿½s', 0.05);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2008, 'Goiï¿½s', 0.19);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2009, 'Goiï¿½s', 0.15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2010, 'Goiï¿½s', 0.13);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2011, 'Goiï¿½s', 0.19);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2012, 'Goiï¿½s', 0.25);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2013, 'Goiï¿½s', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2014, 'Goiï¿½s', 0.25);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2015, 'Goiï¿½s', 0.15);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2016, 'Goiï¿½s', 0.21);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2017, 'Goiï¿½s', 0.12);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2018, 'Goiï¿½s', 0.27);
+INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2019, 'Goiï¿½s', 0.1);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
-, 'Goiás', 0.17
+, 'Goiï¿½s', 0.17
 );
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2001, 'Distrito Federal', 0.09);
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2002, 'Distrito Federal', 0.14);
@@ -6874,3 +6874,5 @@ INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2
 INSERT INTO indicadores_det(id_indicador, ano, regiao, valor) VALUES ('3.9.3', 2020
 , 'Distrito Federal', 0.13
 );
+
+COMMIT;
