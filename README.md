@@ -45,7 +45,8 @@ Cada iteração conta com 4 requisições, o que são 332 requisições em 138.7
 
 Build
 
-1. Editar o arquivo /resources/application.properties com o seguinte template:
+1. Clonar o repositório
+2. Editar o arquivo /resources/application.properties com o seguinte template:
 
         server.port=8080
         # JPA
@@ -59,14 +60,18 @@ Build
         spring.datasource.validationQuery=select 1
         spring.datasource.maxActive=3
 
-Por questões de segurança, o application.properties não está no repositório do GitHub, cadastrei um comentário na área de entrega do trabalho com o username e password do banco que contém os dados.
+Deixei o application.properties no GitHub por enquanto para facilitar a avaliação, então essa etapa pode ser pulada, mas depois irei removê-lo do GitHub por questões de segurança.
 
 2. Se necessário, os scripts de DDL e carga de dados estão na pasta /backend/src/main/sql
 
-3. Utilizar o comando mvnw package para gerar o arquivo .jar do projeto
+3. Utilizar os seguintes comandos com o CMD (não pode ser bash ou powershell) a partir da root para buildar e gerar o arquivo .jar do projeto:
 
-4. Utilizar o comando docker build . --tag=gs-application no diretório raíz do projeto 
+        mvnw compile
+        mvnw clean
+        mvnw install
+        mvnw package
 
-5. utilizar o comando docker run -p 8080:8080 gs-application
+5. Utilizar o comando docker build . --tag=gs-application no diretório raíz do projeto 
 
+6. utilizar o comando docker run -p 8080:8080 gs-application
 
